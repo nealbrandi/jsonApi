@@ -1,0 +1,9 @@
+clean
+compile
+clean
+compile
+run
+activator console
+scala
+version
+exit

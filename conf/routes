@@ -1,0 +1,7 @@
+
+GET 	/place/list  		controllers.Api.listPlaces
+POST 	/place 				controllers.Api.savePlace
+
+GET 	/event/list	 		controllers.Api.listEvents
+
+GET 	/assets/*file 		controllers.Assets.at(path="/public", file)

@@ -1,0 +1,4 @@
+JsonApi
+=======
+
+The purpose of this app is to experiment with Play's Json builders and parsers.  The aim is to implement a secure, validating RESTful JSON API.

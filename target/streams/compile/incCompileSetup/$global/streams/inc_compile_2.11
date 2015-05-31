@@ -1,0 +1,828 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes
+compile options:
+5 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -encoding
+3 -> utf8
+4 -> -feature
+javac options:
+3 items
+0 -> -encoding
+1 -> utf8
+2 -> -g
+compiler version:
+1 items
+0 -> 2.11.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+59 items
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Api$$anonfun$listEvents$1.class
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Api$$anonfun$listPlaces$1.class
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Api$$anonfun$saveEvent$1$$anonfun$apply$3.class
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Api$$anonfun$saveEvent$1$$anonfun$apply$4.class
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Api$$anonfun$saveEvent$1.class
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Api$$anonfun$savePlace$1$$anonfun$apply$1.class
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Api$$anonfun$savePlace$1$$anonfun$apply$2.class
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Api$$anonfun$savePlace$1.class
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Api$.class
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Api.class
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Application$$anonfun$index$1.class
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Application$.class
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Application.class
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Event$$anonfun$1.class
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Event$$anonfun$2.class
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Event$.class
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Event.class
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Location$$anonfun$1.class
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Location$$anonfun$2.class
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Location$.class
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Location.class
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Place$$anonfun$1.class
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Place$$anonfun$2.class
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Place$.class
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Place.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/ReverseApi.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/ReverseAssets.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/javascript/ReverseApi.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/javascript/ReverseAssets.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/ref/ReverseApi$$anonfun$listEvents$1.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/ref/ReverseApi$$anonfun$listPlaces$1.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/ref/ReverseApi$$anonfun$savePlace$1.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/ref/ReverseApi.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/ref/ReverseAssets$$anonfun$at$1.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/ref/ReverseAssets.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$Routes$$controllers_Api_listEvents2_invoker$1.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$Routes$$controllers_Api_listPlaces0_invoker$1.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$Routes$$controllers_Api_savePlace1_invoker$1.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$Routes$$controllers_Assets_at3_invoker$1.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$documentation$1.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$4.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$routes$1.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$setPrefix$1.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/views/html/index$$anonfun$f$1.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/views/html/index$.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/views/html/index.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/views/html/main$$anonfun$f$1$$anonfun$apply$1.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/views/html/main$$anonfun$f$1.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/views/html/main$.class
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/views/html/main.class
+binary dependencies:
+36 items
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> /Users/nealbrandi/.ivy2/cache/com.typesafe.play/play-datacommons_2.11/jars/play-datacommons_2.11-2.3.8.jar
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> /Users/nealbrandi/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.3.8.jar
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> /Users/nealbrandi/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.3.8.jar
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> /Users/nealbrandi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.1.jar
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> /Users/nealbrandi/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.3.8.jar
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> /Users/nealbrandi/.ivy2/cache/com.typesafe.play/twirl-api_2.11/jars/twirl-api_2.11-1.0.2.jar
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> /Users/nealbrandi/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.3.8.jar
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> /Users/nealbrandi/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.3.8.jar
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> /Users/nealbrandi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.1.jar
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> /Users/nealbrandi/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.3.8.jar
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> /Users/nealbrandi/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.3.8.jar
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> /Users/nealbrandi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.1.jar
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> /Users/nealbrandi/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.3.8.jar
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> /Users/nealbrandi/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.3.8.jar
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> /Users/nealbrandi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.1.jar
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> /Users/nealbrandi/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.3.8.jar
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> /Users/nealbrandi/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.3.8.jar
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> /Users/nealbrandi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.1.jar
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.3.8.jar
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.3.8.jar
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.1.jar
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> /Users/nealbrandi/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.3.8.jar
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> /Users/nealbrandi/.ivy2/cache/com.typesafe.play/twirl-api_2.11/jars/twirl-api_2.11-1.0.2.jar
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> /Users/nealbrandi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.1.jar
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> /Users/nealbrandi/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.3.8.jar
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> /Users/nealbrandi/.ivy2/cache/com.typesafe.play/twirl-api_2.11/jars/twirl-api_2.11-1.0.2.jar
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> /Users/nealbrandi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.1.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+13 items
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> /Users/nealbrandi/code/jsonApi/app/models/Event.scala
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> /Users/nealbrandi/code/jsonApi/app/models/Location.scala
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> /Users/nealbrandi/code/jsonApi/app/models/Place.scala
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> /Users/nealbrandi/code/jsonApi/app/models/Location.scala
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> /Users/nealbrandi/code/jsonApi/app/models/Place.scala
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> /Users/nealbrandi/code/jsonApi/app/models/Location.scala
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> /Users/nealbrandi/code/jsonApi/app/controllers/Api.scala
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> /Users/nealbrandi/code/jsonApi/app/controllers/Api.scala
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/controllers/routes.java
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> /Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+59 items
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> controllers.Api
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> controllers.Api$
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> controllers.Api$$anonfun$listEvents$1
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> controllers.Api$$anonfun$listPlaces$1
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> controllers.Api$$anonfun$saveEvent$1
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> controllers.Api$$anonfun$saveEvent$1$$anonfun$apply$3
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> controllers.Api$$anonfun$saveEvent$1$$anonfun$apply$4
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> controllers.Api$$anonfun$savePlace$1
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> controllers.Api$$anonfun$savePlace$1$$anonfun$apply$1
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> controllers.Api$$anonfun$savePlace$1$$anonfun$apply$2
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> controllers.Application
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> controllers.Application$
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> controllers.Application$$anonfun$index$1
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> models.Event
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> models.Event$
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> models.Event$$anonfun$1
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> models.Event$$anonfun$2
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> models.Location
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> models.Location$
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> models.Location$$anonfun$1
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> models.Location$$anonfun$2
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> models.Place
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> models.Place$
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> models.Place$$anonfun$1
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> models.Place$$anonfun$2
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> controllers.ReverseApi
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> controllers.ReverseAssets
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> controllers.javascript.ReverseApi
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> controllers.javascript.ReverseAssets
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> controllers.ref.ReverseApi
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> controllers.ref.ReverseApi$$anonfun$listEvents$1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> controllers.ref.ReverseApi$$anonfun$listPlaces$1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> controllers.ref.ReverseApi$$anonfun$savePlace$1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> controllers.ref.ReverseAssets
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> controllers.ref.ReverseAssets$$anonfun$at$1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Routes
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Routes$
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Routes$$anonfun$Routes$$controllers_Api_listEvents2_invoker$1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Routes$$anonfun$Routes$$controllers_Api_listPlaces0_invoker$1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Routes$$anonfun$Routes$$controllers_Api_savePlace1_invoker$1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Routes$$anonfun$Routes$$controllers_Assets_at3_invoker$1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Routes$$anonfun$documentation$1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$2
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$3
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$4
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Routes$$anonfun$setPrefix$1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> views.html.index
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> views.html.index$
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> views.html.index$$anonfun$f$1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> views.html.main
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> views.html.main$
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> views.html.main$$anonfun$f$1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> views.html.main$$anonfun$f$1$$anonfun$apply$1
+used names:
+468 items
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> +
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> ->
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> <init>
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> Action
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> Api
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> BadRequest
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> BodyParsers
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> Codec
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> Controller
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> Event
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> JsError
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> JsValueWrites
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> Json
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> Location
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> Ok
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> Place
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> Predef
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> StringWrites
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> Writeable
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> Writes
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> api
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> apply
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> body
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> controllers
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> errors
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> event
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> fold
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> format
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> http
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> json
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> libs
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> list
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> models
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> mvc
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> name
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> obj
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> parse
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> place
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> play
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> request
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> result
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> save
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> scala
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> toFlatJson
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> toJsFieldJsValueWrapper
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> toJson
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> traversableWrites
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> utf_8
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> validate
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> writeableOf_JsValue
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> <init>
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> Action
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> Application
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> Codec
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> ContentTypeOf
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> Controller
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> Ok
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> Writeable
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> api
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> apply
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> contentTypeOf_Html
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> controllers
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> html
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> http
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> index
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> mvc
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> play
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> utf_8
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> views
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> writeableOf_Content
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> &&
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> :::
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> <init>
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> ==
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> AnyRef
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> Event
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> Format
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> GenericFormat
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> JsPath
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> JsResult
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> Json
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> List
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> Location
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> None
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> OFormat
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> OWrites
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> Option
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> Place
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> Predef
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> Product
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> Reads
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> ScalaRunTime
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> Serializable
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> String
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> StringReads
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> StringWrites
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> Writes
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> \
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> _hashCode
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> _toString
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> and
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> api
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> applicative
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> applicativeJsResult
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> apply
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> asInstanceOf
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> description
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> eq
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> event
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> format
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> formatNullable
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> functional
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> functionalCanBuildApplicative
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> functionalCanBuildFormats
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> functionalCanBuildOWrites
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> immutable
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> invariantFunctorOFormat
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> isInstanceOf
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> json
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> libs
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> list
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> list_=
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> models
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> name
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> package
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> place
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> play
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> runtime
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> scala
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> syntax
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> toFunctionalBuilderOps
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> toString
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> typedProductIterator
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> unlift
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> ||
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> &&
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> <init>
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> ==
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> AnyRef
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> Double
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> DoubleReads
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> DoubleWrites
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> Format
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> GenericFormat
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> JsPath
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> JsResult
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> Json
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> Location
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> None
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> OFormat
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> OWrites
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> Product
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> Reads
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> ScalaRunTime
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> Serializable
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> Statics
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> Writes
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> \
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> _toString
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> and
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> api
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> applicative
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> applicativeJsResult
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> apply
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> asInstanceOf
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> doubleHash
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> eq
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> finalizeHash
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> format
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> functional
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> functionalCanBuildApplicative
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> functionalCanBuildFormats
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> functionalCanBuildOWrites
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> invariantFunctorOFormat
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> isInstanceOf
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> json
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> lat
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> libs
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> long
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> mix
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> models
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> package
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> play
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> runtime
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> scala
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> syntax
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> toFunctionalBuilderOps
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> toString
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> typedProductIterator
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> unlift
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> ||
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> &&
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> :::
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> <init>
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> ==
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> AnyRef
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> Format
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> GenericFormat
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> JsPath
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> JsResult
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> Json
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> List
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> Location
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> None
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> OFormat
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> OWrites
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> Place
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> Predef
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> Product
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> Reads
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> ScalaRunTime
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> Serializable
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> String
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> StringReads
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> StringWrites
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> Writes
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> \
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> _hashCode
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> _toString
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> and
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> api
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> applicative
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> applicativeJsResult
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> apply
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> asInstanceOf
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> eq
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> format
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> functional
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> functionalCanBuildApplicative
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> functionalCanBuildFormats
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> functionalCanBuildOWrites
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> immutable
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> invariantFunctorOFormat
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> isInstanceOf
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> json
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> libs
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> list
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> list_=
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> location
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> models
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> name
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> package
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> place
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> play
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> runtime
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> scala
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> syntax
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> toFunctionalBuilderOps
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> toString
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> typedProductIterator
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> unlift
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> ||
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> +
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> <init>
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> AnyRef
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> Api
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> Asset
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> Assets
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> Call
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> HandlerInvokerFactory
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> HandlerRef
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> JavascriptReverseRoute
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> Map
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> PathBindable
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> Predef
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> ReverseApi
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> ReverseAssets
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> ReverseRouteContext
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> Router
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> Routes
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> Seq
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> String
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> _defaultPrefix
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> _prefix
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> api
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> apply
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> at
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> bindableString
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> collection
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> controllers
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> core
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> defaultPrefix
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> empty
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> file
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> getClass
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> getClassLoader
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> implicitly
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> j
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> javascript
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> javascriptUnbind
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> listEvents
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> listPlaces
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> mvc
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> passThrough
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> path
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> play
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> prefix
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> queryString
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> ref
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> savePlace
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> scala
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> unbind
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> +
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> ++
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> :+
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> <init>
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> A1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Any
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Api
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Asset
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Assets
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> B1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Function1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Handler
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> HandlerInvokerFactory
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> List
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Nil
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> None
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> PartialFunction
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> PathBindable
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Predef
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> RequestHeader
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> ReverseRouteContext
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Right
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Route
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Router
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Routes
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Seq
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> String
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Tuple3
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> Unit
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> _1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> _2
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> _prefix
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> _prefix_=
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> api
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> apply
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> asInstanceOf
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> at
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> bindableString
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> call
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> canBuildFrom
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> collection
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> controllers
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> controllers_Api_listEvents2_invoker
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> controllers_Api_listEvents2_route
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> controllers_Api_listPlaces0_invoker
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> controllers_Api_listPlaces0_route
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> controllers_Api_savePlace1_invoker
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> controllers_Api_savePlace1_route
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> controllers_Assets_at3_invoker
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> controllers_Assets_at3_route
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> core
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> createInvoker
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> defaultPrefix
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> e
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> empty
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> endsWith
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> fakeValue
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> file
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> foldLeft
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> foreach
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> fromPath
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> get
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> getClass
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> getClassLoader
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> immutable
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> isEmpty
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> isInstanceOf
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> j
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> listEvents
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> listPlaces
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> mvc
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> ne
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> p
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> package
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> params
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> passThrough
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> path
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> play
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> prefix
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> queryString
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> router
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> s
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> savePlace
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> scala
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> setPrefix
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> unapply
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> unary_!
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> unchecked
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> <init>
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> Any
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> Appendable
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> BaseScalaTemplate
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> Format
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> Function1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> HtmlFormat
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> ManifestFactory
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> PlayMagic
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> Predef
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> Seq
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> String
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> Template1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> TemplateMagic
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> _display_
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> _root_
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> api
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> apply
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> classType
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> collection
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> controllers
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> data
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> format
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> html
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> i18n
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> index
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> main
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> message
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> models
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> mvc
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> play
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> raw
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> reflect
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> scala
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> templates
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> twirl
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> views
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> <init>
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> Any
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> Appendable
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> Assets
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> BaseScalaTemplate
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> Format
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> Function1
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> Html
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> HtmlFormat
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> ManifestFactory
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> PlayMagic
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> Predef
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> Seq
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> String
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> Template2
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> TemplateMagic
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> _display_
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> _root_
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> api
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> apply
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> at
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> classType
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> collection
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> content
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> controllers
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> data
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> format
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> html
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> i18n
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> main
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> models
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> mvc
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> play
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> raw
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> reflect
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> routes
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> scala
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> templates
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> title
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> twirl
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> views
+product stamps:
+59 items
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$Routes$$controllers_Api_listEvents2_invoker$1.class -> lastModified(1433112678000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$Routes$$controllers_Api_listPlaces0_invoker$1.class -> lastModified(1433112678000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$Routes$$controllers_Api_savePlace1_invoker$1.class -> lastModified(1433112678000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$Routes$$controllers_Assets_at3_invoker$1.class -> lastModified(1433112678000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$documentation$1.class -> lastModified(1433112678000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1$$anonfun$apply$1.class -> lastModified(1433112678000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$1.class -> lastModified(1433112678000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$2$$anonfun$apply$2.class -> lastModified(1433112678000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$2.class -> lastModified(1433112678000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$3$$anonfun$apply$3.class -> lastModified(1433112678000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$3.class -> lastModified(1433112678000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4.class -> lastModified(1433112678000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$routes$1$$anonfun$applyOrElse$4.class -> lastModified(1433112678000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$routes$1.class -> lastModified(1433112678000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$$anonfun$setPrefix$1.class -> lastModified(1433112678000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes$.class -> lastModified(1433112678000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/Routes.class -> lastModified(1433112678000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Api$$anonfun$listEvents$1.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Api$$anonfun$listPlaces$1.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Api$$anonfun$saveEvent$1$$anonfun$apply$3.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Api$$anonfun$saveEvent$1$$anonfun$apply$4.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Api$$anonfun$saveEvent$1.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Api$$anonfun$savePlace$1$$anonfun$apply$1.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Api$$anonfun$savePlace$1$$anonfun$apply$2.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Api$$anonfun$savePlace$1.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Api$.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Api.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Application$$anonfun$index$1.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Application$.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/Application.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/ReverseApi.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/ReverseAssets.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/javascript/ReverseApi.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/javascript/ReverseAssets.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/ref/ReverseApi$$anonfun$listEvents$1.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/ref/ReverseApi$$anonfun$listPlaces$1.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/ref/ReverseApi$$anonfun$savePlace$1.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/ref/ReverseApi.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/ref/ReverseAssets$$anonfun$at$1.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/controllers/ref/ReverseAssets.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Event$$anonfun$1.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Event$$anonfun$2.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Event$.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Event.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Location$$anonfun$1.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Location$$anonfun$2.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Location$.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Location.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Place$$anonfun$1.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Place$$anonfun$2.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Place$.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/models/Place.class -> lastModified(1433112679000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/views/html/index$$anonfun$f$1.class -> lastModified(1433112681000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/views/html/index$.class -> lastModified(1433112681000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/views/html/index.class -> lastModified(1433112681000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/views/html/main$$anonfun$f$1$$anonfun$apply$1.class -> lastModified(1433112681000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/views/html/main$$anonfun$f$1.class -> lastModified(1433112681000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/views/html/main$.class -> lastModified(1433112681000)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/classes/views/html/main.class -> lastModified(1433112681000)
+source stamps:
+10 items
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> hash(9ece30ed4064b5dac8d993d31c6d801af6e6703e)
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> hash(fd5581f2e49c4111d94879e8ed042ef83cdd9396)
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> hash(17517a908626d5319295f0296a5e03fb4e029ed8)
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> hash(8e0fef2126d08316aa2a76183a67eba23b7a04d9)
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> hash(4df4efcb7765dc4857fe62a001adfce2a5dd2399)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/controllers/routes.java -> hash(3dac19773bbf10dc4ad1406920ebf356d1d48d2d)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> hash(1d40bc659cb631aaba74f8233cd2fc0f6d6d8e4c)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> hash(2a25eef365b729ea0a4f608521bb8b20b7caecc6)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> hash(1c76917358c08e90d71a0ab0e2533ae3c02ad2eb)
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> hash(40f9fe3b255194eaec17dc59067a4ef392e921ac)
+binary stamps:
+7 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1426248356000)
+/Users/nealbrandi/.ivy2/cache/com.typesafe.play/play-datacommons_2.11/jars/play-datacommons_2.11-2.3.8.jar -> lastModified(1423703008000)
+/Users/nealbrandi/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.3.8.jar -> lastModified(1423703037000)
+/Users/nealbrandi/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.3.8.jar -> lastModified(1423703097000)
+/Users/nealbrandi/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.3.8.jar -> lastModified(1423703185000)
+/Users/nealbrandi/.ivy2/cache/com.typesafe.play/twirl-api_2.11/jars/twirl-api_2.11-1.0.2.jar -> lastModified(1417706134000)
+/Users/nealbrandi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.1.jar -> lastModified(1417706134000)
+class names:
+7 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/nealbrandi/.ivy2/cache/com.typesafe.play/play-datacommons_2.11/jars/play-datacommons_2.11-2.3.8.jar -> play.api.data.validation.ValidationError
+/Users/nealbrandi/.ivy2/cache/com.typesafe.play/play-functional_2.11/jars/play-functional_2.11-2.3.8.jar -> play.api.libs.functional.syntax.package$
+/Users/nealbrandi/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.3.8.jar -> play.api.libs.json.JsValue
+/Users/nealbrandi/.ivy2/cache/com.typesafe.play/play_2.11/jars/play_2.11-2.3.8.jar -> play.api.templates.PlayMagic$
+/Users/nealbrandi/.ivy2/cache/com.typesafe.play/twirl-api_2.11/jars/twirl-api_2.11-1.0.2.jar -> play.twirl.api.Template2
+/Users/nealbrandi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.1.jar -> scala.reflect.ManifestFactory$
+internal apis:
+10 items
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDPsAbSAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwxIGUg3QAD3JlcXVlc3Qyc2Vzc2lvbnNxAH4AC8JO+gd0AA1yZXF1ZXN0MmZsYXNoc3EAfgALL7ncN3QADHJlcXVlc3QybGFuZ3VxAH4ACQAAARZzcQB+AAsZR25adAAMUmVzZXRDb250ZW50c3EAfgALiZTchHQADU5vdEFjY2VwdGFibGVzcQB+AAuXSWX8dAARVGVtcG9yYXJ5UmVkaXJlY3RzcQB+AAuA6rL/dAAIc2VuZEZpbGVzcQB+AAu0WqGDdAAPYWRkaW5nVG9TZXNzaW9uc3EAfgAL3nWKhHQABkxvY2tlZHNxAH4AC6vbZt90AAZub3RpZnlzcQB+AAtunuTcdAAERlJPTXNxAH4ACxxuFHh0ABBDT05URU5UX0xBTkdVQUdFc3EAfgALDoUw0XQAB0NSRUFURURzcQB+AAuKTaXwdAAHdW5hcHBseXNxAH4AC0bb0190ABBUT09fTUFOWV9SRVFVRVNUc3EAfgALx6x0yXQACmxpc3RQbGFjZXNzcQB+AAu2fAVndAAHY3VycmllZHNxAH4AC0TLJER0ABdERUZBVUxUX01BWF9URVhUX0xFTkdUSHNxAH4ACz2sXQl0ABJ0b2xlcmFudEJvZHlQYXJzZXJzcQB+AAt964xzdAAHV0FSTklOR3NxAH4AC0dF0aN0AAhDT05USU5VRXNxAH4AC+9xVc50AARib2R5c3EAfgALEMJS7HQABWNodW5rc3EAfgALs2JtyHQAC1NFVF9DT09LSUUyc3EAfgALAGJ0PHQACEhUVFBfMV8xc3EAfgALd44VyXQAE0NPTlRFTlRfRElTUE9TSVRJT05zcQB+AAuxwMZidAAMQ09OVEVOVF9UWVBFc3EAfgALSfuTq3QABkJJTkFSWXNxAH4ACyUQviN0AAR3YWl0c3EAfgALzp3IpnQAHEFDQ0VTU19DT05UUk9MX0FMTE9XX01FVEhPRFNzcQB+AAv6UNoedAAKQmFkR2F0ZXdheXNxAH4AC/cAlZd0AAh3aXRoTGFuZ3NxAH4AC02x9WF0ABBNZXRob2ROb3RBbGxvd2Vkc3EAfgAL6lcuOXQADlRvb01hbnlSZXF1ZXN0c3EAfgAL6LDtonQAClVTRVJfQUdFTlRzcQB+AAvtz7T/dAAESE9TVHNxAH4AC0HktZ10AAtDT05URU5UX01ENXNxAH4ACzVSsE90AA5jb3B5JGRlZmF1bHQkMnNxAH4ACxVskol0AAdDcmVhdGVkc3EAfgAL8QQ7NXQADSRhc0luc3RhbmNlT2ZzcQB+AAtT71lsdAAFZW1wdHlzcQB+AAto7W5TdAAQWF9GT1JXQVJERURfUE9SVHNxAH4AC+iBe210AApKYXZhU2NyaXB0c3EAfgALdt7L4XQAC0JBRF9SRVFVRVNUc3EAfgALPxZIJnQABXVzaW5nc3EAfgAL5OD8D3QADk5vdEltcGxlbWVudGVkc3EAfgALXLS2wHQADE1BWF9GT1JXQVJEU3NxAH4AC4dgOZd0ABBYX0ZPUldBUkRFRF9IT1NUc3EAfgALGOFbj3QAA0NTU3NxAH4ACxnSIs10AAx0b2xlcmFudEpzb25zcQB+AAsypfmqdAAJc2F2ZVBsYWNlc3EAfgAL2RgnbXQACFNlZU90aGVyc3EAfgALIka1+XQAB1RSQUlMRVJzcQB+AAs6tet8dAASUFJPWFlfQVVUSEVOVElDQVRFc3EAfgALe7tkzHQADUFVVEhPUklaQVRJT05zcQB+AAtoCPYadAADWE1Mc3EAfgALdM3vC3QACmFueUNvbnRlbnRzcQB+AAsrPr7pdAANQ0FDSEVfQ09OVFJPTHNxAH4AC6gdt8p0ABtOb25BdXRob3JpdGF0aXZlSW5mb3JtYXRpb25zcQB+AAuT/n7WdAAPTk9UX0lNUExFTUVOVEVEc3EAfgALK5IRenQADHByb2R1Y3RBcml0eXNxAH4AC00oe+h0AAZlcXVhbHNzcQB+AAsY9RR8dAAQUEFZTUVOVF9SRVFVSVJFRHNxAH4AC0jUuXh0AARqc29uc3EAfgALwC+rW3QAC1BhcnRIYW5kbGVyc3EAfgALAPLLqHQACEFjY2VwdGVkc3EAfgALdK3z+HQAC1JFVFJZX0FGVEVSc3EAfgALNzvbhnQAElJlZGlyZWN0JGRlZmF1bHQkMnNxAH4AC4iisW90AA51cmxGb3JtRW5jb2RlZHNxAH4AC2a8zch0AARKU09Oc3EAfgALZ/EaYnQACFJlZGlyZWN0c3EAfgALjDFsi3QAE1BSRUNPTkRJVElPTl9GQUlMRURzcQB+AAsfIepRdAAKaGFuZGxlUGFydHNxAH4AC+jU2aR0AA5QYXJ0aWFsQ29udGVudHNxAH4ACxO+c510ABRVbnN1cHBvcnRlZE1lZGlhVHlwZXNxAH4AC0Ma1wp0AAhDT05GTElDVHNxAH4AC11BsbN0ABJzZW5kRmlsZSRkZWZhdWx0JDJzcQB+AAuyB9bPdAAOQUNDRVBUX0NIQVJTRVRzcQB+AAvPnB4edAARRXhwZWN0YXRpb25GYWlsZWRzcQB+AAuIrd2pdAADVklBc3EAfgALpsPYlHQADGFzSW5zdGFuY2VPZnNxAH4AC6yc87V0AA9SRVFVRVNUX1RJTUVPVVRzcQB+AAv4EAlkdAAQTVVMVElQTEVfQ0hPSUNFU3NxAH4AC1sIv+x0AAlNdWx0aXBhcnRzcQB+AAt6AEwYdAAdaGFuZGxlRmlsZVBhcnRBc1RlbXBvcmFyeUZpbGVzcQB+AAsa2PDodAAPbXVsdGlwYXJ0UGFyc2Vyc3EAfgAL9nyuw3QAEU1PVkVEX1BFUk1BTkVOVExZc3EAfgALvSvJ93QAAlRFc3EAfgALAO0lInQADkdhdGV3YXlUaW1lb3V0c3EAfgALS13H1HQAEENPTlRFTlRfTE9DQVRJT05zcQB+AAv38Vm5dAAPUEFSVElBTF9DT05URU5Uc3EAfgALOensE3QAE3JlbW92aW5nRnJvbVNlc3Npb25zcQB+AAtIhUrsdAAJc2F2ZUV2ZW50c3EAfgAL/twcGXQAFElOU1VGRklDSUVOVF9TVE9SQUdFc3EAfgALgrjpL3QAEW11bHRpcGFydEZvcm1EYXRhc3EAfgAL8W2m1HQADEVWRU5UX1NUUkVBTXNxAH4AC4zLA4l0AAxzeW5jaHJvbml6ZWRzcQB+AAsOwnxGdAAQRmFpbGVkRGVwZW5kZW5jeXNxAH4AC2EJfXZ0AARFVEFHc3EAfgALJhuQC3QAD0xFTkdUSF9SRVFVSVJFRHNxAH4AC2V1nNp0AA53aXRoTmV3U2Vzc2lvbnNxAH4ACwYIX7F0AApKQVZBU0NSSVBUc3EAfgALnC97gnQADkVudGl0eVRvb0xhcmdlc3EAfgALxZdIJ3QADFVOQVVUSE9SSVpFRHNxAH4AC2NmxyV0ABZVTlNVUFBPUlRFRF9NRURJQV9UWVBFc3EAfgALY15DiXQADSRpc0luc3RhbmNlT2ZzcQB+AAuufsRZdAAHUkVGRVJFUnNxAH4AC/n9ush0ABhSRVFVRVNUX0VOVElUWV9UT09fTEFSR0VzcQB+AAvGqyv6dAAGT1JJR0lOc3EAfgALkuyuTHQAC3dpdGhDb29raWVzc3EAfgALdmVKwXQAD0FDQ0VQVF9MQU5HVUFHRXNxAH4AC5X/uw10AAxOT1RfTU9ESUZJRURzcQB+AAutmSZpdAACYXNzcQB+AAs0atUXdAAGdHVwbGVkc3EAfgALhjukd3QAC3dpdGhTZXNzaW9uc3EAfgALW7YsL3QAGkhUVFBfVkVSU0lPTl9OT1RfU1VQUE9SVEVEc3EAfgALi2b+0HQAG0FDQ0VTU19DT05UUk9MX0FMTE9XX09SSUdJTnNxAH4ACy2bS+t0ABJzZW5kRmlsZSRkZWZhdWx0JDNzcQB+AAtGNX8QdAATVW5wcm9jZXNzYWJsZUVudGl0eXNxAH4AC6g+NmN0AAR0ZXh0c3EAfgAL7JuCTXQACGZpbGVOYW1lc3EAfgALxjVMiXQACGNhbkVxdWFsc3EAfgALu4D363QACE5vdEZvdW5kc3EAfgALGh3HUnQACElGX1JBTkdFc3EAfgALqxuTzXQAEnNlbmRGaWxlJGRlZmF1bHQkNHNxAH4AC0xqLqV0AAhmbGFzaGluZ3NxAH4AC41cQ9N0AAdkZWNodW5rc3EAfgALP8RKHHQABEZPUk1zcQB+AAueW0BZdAATSUZfVU5NT0RJRklFRF9TSU5DRXNxAH4ACw5p+sR0ABNTV0lUQ0hJTkdfUFJPVE9DT0xTc3EAfgALdR0Lc3QAElRFTVBPUkFSWV9SRURJUkVDVHNxAH4ACwT6l8F0AA1wcm9kdWN0UHJlZml4c3EAfgALnMK6onQADkNPTlRFTlRfTEVOR1RIc3EAfgALLGUVXHQADXRlbXBvcmFyeUZpbGVzcQB+AAuNOAvKdAAKU0VUX0NPT0tJRXNxAH4AC7PjyJF0AAlub3RpZnlBbGxzcQB+AAv7Ip7AdAALcmVhZFJlc29sdmVzcQB+AAtTnaw6dAADQUdFc3EAfgALKLYwv3QAC0JBRF9HQVRFV0FZc3EAfgALxaB2DXQAEkVYUEVDVEFUSU9OX0ZBSUxFRHNxAH4AC9zif4t0AApDT05ORUNUSU9Oc3EAfgALwCrp7XQAAk9rc3EAfgALmiqZIHQADGlzSW5zdGFuY2VPZnNxAH4AC52Jxmd0ABBNb3ZlZFBlcm1hbmVudGx5c3EAfgALiWviynQAAk9Lc3EAfgALfF/O/3QAEWRpc2NhcmRpbmdDb29raWVzc3EAfgALewaA0HQAFUFwcGxpY2F0aW9uWG1sTWF0Y2hlcnNxAH4AC5o02RN0ABxBQ0NFU1NfQ09OVFJPTF9BTExPV19IRUFERVJTc3EAfgALry3rDHQADkNBQ0hFX01BTklGRVNUc3EAfgALL6LhVnQACUZvcmJpZGRlbnNxAH4AC/tVCOh0ABdIdHRwVmVyc2lvbk5vdFN1cHBvcnRlZHNxAH4AC1uvoMV0AARURVhUc3EAfgALZp4snnQACkJhZFJlcXVlc3RzcQB+AAuJSIDRdAAFRk9VTkRzcQB+AAvVkMN/dAAGPGluaXQ+c3EAfgAL8LJxwXQAC05vdE1vZGlmaWVkc3EAfgALTOKXq3QABERBVEVzcQB+AAuuyNWHdAAPY3JlYXRlQmFkUmVzdWx0c3EAfgALq0GnkHQABWFzeW5jc3EAfgALCfJfDXQADUNPTlRFTlRfUkFOR0VzcQB+AAujEs3EdAAJVU5MSU1JVEVEc3EAfgALD6Yr5nQABCRhbXBzcQB+AAu8+SWTdAAMdG9sZXJhbnRUZXh0c3EAfgALzUig9HQAB2NodW5rZWRzcQB+AAsM53VMdAARVFJBTlNGRVJfRU5DT0RJTkdzcQB+AAtcnDogdAALY29udGVudFR5cGVzcQB+AAuMDEYRdAAFYXBwbHlzcQB+AAvrIX7fdAADcmF3c3EAfgALE3Dk/3QABWVycm9yc3EAfgAL2r6iGXQAA3htbHNxAH4AC37xMyF0AAVwYXJzZXNxAH4AC1//gEF0ABNQUk9YWV9BVVRIT1JJWkFUSU9Oc3EAfgALV4rownQAAj09c3EAfgAL4ECklXQABEdPTkVzcQB+AAs4PoGtdAAIRmlsZUluZm9zcQB+AAvcwSsCdAAER29uZXNxAH4AC+HlSih0ACBBQ0NFU1NfQ09OVFJPTF9BTExPV19DUkVERU5USUFMU3NxAH4AC1BHz650AA5OT1RfQUNDRVBUQUJMRXNxAH4AC5bZc7Z0AAVzcGxpdHNxAH4AC9jiItB0AAVjbG9uZXNxAH4AC/RHrbV0AAZzdHJlYW1zcQB+AAuNdhDKdAAGRVhQRUNUc3EAfgAL3Dm9yHQAElNlcnZpY2VVbmF2YWlsYWJsZXNxAH4AC3pFG3Z0AAhMT0NBVElPTnNxAH4AC2nmdvx0AARWQVJZc3EAfgALcagULHQAEFdXV19BVVRIRU5USUNBVEVzcQB+AAs3YKmndAAOaGFuZGxlRmlsZVBhcnRzcQB+AAsKFvF/dAAEZmVlZHNxAH4AC2SGJx50AARUT0RPc3EAfgALaQRKdnQAD1hfRk9SV0FSREVEX0ZPUnNxAH4AC1w4z/F0AAhwYXJ0TmFtZXNxAH4AC+KgIVp0AApsaXN0RXZlbnRzc3EAfgALD0zdmnQAElByZWNvbmRpdGlvbkZhaWxlZHNxAH4AC8pfs150AAhBQ0NFUFRFRHNxAH4AC2PpHjp0AARIdG1sc3EAfgAL4ZT53nQACk5PX0NPTlRFTlRzcQB+AAsxrE7FdAAISFRUUF8xXzBzcQB+AAvAvYBAdAAVSU5URVJOQUxfU0VSVkVSX0VSUk9Sc3EAfgAL4b1jOXQAD2NodW5rJGRlZmF1bHQkMXNxAH4AC+XtOLV0AAdVUEdSQURFc3EAfgAL0hG6G3QAFnRvbGVyYW50Rm9ybVVybEVuY29kZWRzcQB+AAs6NoGTdAAJTk9UX0ZPVU5Ec3EAfgALhGxxEHQAB3Nlc3Npb25zcQB+AAu+XADPdAAPQUNDRVBUX0VOQ09ESU5Hc3EAfgALKTv2AXQAE0ludGVybmFsU2VydmVyRXJyb3JzcQB+AAsdgN72dAAHRVhQSVJFU3NxAH4AC22LBNZ0AA5jb3B5JGRlZmF1bHQkM3NxAH4AC40c9jN0AARjb3B5c3EAfgALsCf6W3QAH1JFUVVFU1RFRF9SQU5HRV9OT1RfU0FUSVNGSUFCTEVzcQB+AAv7M/3odAAGaGVhZGVyc3EAfgALntUUAnQACHRvU3RyaW5nc3EAfgAL0ExNhXQADFVuYXV0aG9yaXplZHNxAH4AC1iyz0B0AARmaWxlc3EAfgAL/pC8G3QADlJlcXVlc3RUaW1lb3V0c3EAfgALAxh6InQABkFDQ0VQVHNxAH4AC0an7jR0AApVcmlUb29Mb25nc3EAfgALJjm6/HQAD0dBVEVXQVlfVElNRU9VVHNxAH4AC3IOv2N0AAtNdWx0aVN0YXR1c3NxAH4AC/MwfXp0AAxjbGVhcmluZ0xhbmdzcQB+AAsBp9hMdAAGU0VSVkVSc3EAfgALK2/S9nQAHUFDQ0VTU19DT05UUk9MX1JFUVVFU1RfTUVUSE9Ec3EAfgALGTrpr3QAFFVOUFJPQ0VTU0FCTEVfRU5USVRZc3EAfgALq5niqXQAFkFDQ0VTU19DT05UUk9MX01BWF9BR0VzcQB+AAtltaZJdAACIT1zcQB+AAukKtladAANTEFTVF9NT0RJRklFRHNxAH4ACzaeseB0AB1BQ0NFU1NfQ09OVFJPTF9FWFBPU0VfSEVBREVSU3NxAH4AC42Y+/h0AB5BQ0NFU1NfQ09OVFJPTF9SRVFVRVNUX0hFQURFUlNzcQB+AAvIlo2tdAALd2l0aENoYXJzZXRzcQB+AAuA8V88dAAIQ29uZmxpY3RzcQB+AAtlcV8adAAKY29ubmVjdGlvbnNxAH4AC40UQIt0AAVBTExPV3NxAH4AC16BR5V0AAZDT09LSUVzcQB+AAuXXGNtdAARSUZfTU9ESUZJRURfU0lOQ0VzcQB+AAvNtigEdAAIZ2V0Q2xhc3NzcQB+AAumHPJSdAADWG1sc3EAfgALf2YxqXQAGUNPTlRFTlRfVFJBTlNGRVJfRU5DT0RJTkdzcQB+AAsagVU3dAAOY29weSRkZWZhdWx0JDFzcQB+AAvgn0MhdAAESFRNTHNxAH4AC9KJ0wd0AAVGb3VuZHNxAH4AC1z9tHN0AB1OT05fQVVUSE9SSVRBVElWRV9JTkZPUk1BVElPTnNxAH4AC0hUvXd0AAZyZW5kZXJzcQB+AAs4CxAVdAADQXBpc3EAfgALUPP4jnQABlBSQUdNQXNxAH4AC/0Hg790AAhJRl9NQVRDSHNxAH4AC8NijLJ0AA5oYW5kbGVEYXRhUGFydHNxAH4AC9ttgaJ0AB1QUk9YWV9BVVRIRU5USUNBVElPTl9SRVFVSVJFRHNxAH4AC0aA7rh0AA1SRVNFVF9DT05URU5Uc3EAfgALU2WqxXQACVNFRV9PVEhFUnNxAH4AC+X1TZl0ABFGQUlMRURfREVQRU5ERU5DWXNxAH4AC4vlhIx0AAJuZXNxAH4AC3eRkNJ0ABBDT05URU5UX0VOQ09ESU5Hc3EAfgALf7SZD3QAE0luc3VmZmljaWVudFN0b3JhZ2VzcQB+AAsh9NbXdAAFUkFOR0VzcQB+AAvU0UhXdAAJVVNFX1BST1hZc3EAfgALidIwunQAB0FjY2VwdHNzcQB+AAsIO9RAdAAHQ0hVTktFRHNxAH4AC7mzDp50ABRSRVFVRVNUX1VSSV9UT09fTE9OR3NxAH4ACyDJnh50ABJSZWRpcmVjdCRkZWZhdWx0JDNzcQB+AAuUR2KFdAAGTE9DS0VEc3EAfgALJgpMyHQABHdoZW5zcQB+AAsuT4QUdAAESnNvbnNxAH4ACwlmanR0AAltYXhMZW5ndGhzcQB+AAvPAOOUdAAJRk9SQklEREVOc3EAfgAL1F7Xh3QAEk1FVEhPRF9OT1RfQUxMT1dFRHNxAH4AC6sl3Ft0AAJlcXNxAH4AC92rtGp0AA9QYXJ0SW5mb01hdGNoZXJzcQB+AAsriqL8dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALo9tS+3QADUlGX05PTkVfTUFUQ0hzcQB+AAsgxDAcdAANQUNDRVBUX1JBTkdFU3NxAH4AC9Y04e50AAlOb0NvbnRlbnRzcQB+AAsMWeZmdAARWF9GT1JXQVJERURfUFJPVE9zcQB+AAuhEsoHdAALdG9sZXJhbnRYbWxzcQB+AAvMUxzEdAAMTVVMVElfU1RBVFVTc3EAfgALa9Bm/nQAAiMjc3EAfgALMUh/OXQACGZpbmFsaXplc3EAfgALcgOdjnQAE1NFUlZJQ0VfVU5BVkFJTEFCTEVzcQB+AAvJL4TodAAOcHJvZHVjdEVsZW1lbnRzcQB+AAvMETL/dAAIaGFzaENvZGVzcQB+AAsL+TGodAAPRmlsZUluZm9NYXRjaGVyc3EAfgALv3Ugn3QABlN0YXR1c3NxAH4ACxf3OkJ0AAt3aXRoSGVhZGVyc3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+Akl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA9jb250cm9sbGVycy5BcGl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgJieHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgJhAHBzcQB+AmZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4CSUwACWluaGVyaXRlZHEAfgJJTAAHcGFyZW50c3EAfgJJeHEAfgJqc3EAfgJhAHBzcQB+AmZ1cQB+AkQAAAAAc3EAfgJhAHBzcQB+AmZ1cQB+AkQAAAAAc3EAfgJhAHBzcQB+AmZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAADHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+Aml0AApDb250cm9sbGVyc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgJpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgKGdAADYXBpc3EAfgKGdAADbXZjc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AodzcQB+Anp0AAlSZW5kZXJpbmdxAH4CgHNxAH4CenQAEVJlcXVlc3RFeHRyYWN0b3JzcQB+AoBzcQB+Anp0ABBBY2NlcHRFeHRyYWN0b3JzcQB+AoBzcQB+Anp0AAxDb250ZW50VHlwZXNzcQB+An5zcQB+AoF1cQB+AoQAAAAEc3EAfgKGdAAEcGxheXNxAH4ChnEAfgKLc3EAfgKGdAAEaHR0cHEAfgKPc3EAfgJ6dAALSGVhZGVyTmFtZXNxAH4CmHNxAH4CenQABlN0YXR1c3EAfgKYc3EAfgJ6dAAMSHR0cFByb3RvY29scQB+AphzcQB+Anp0AAtCb2R5UGFyc2Vyc3EAfgKAc3EAfgJ6dAAHUmVzdWx0c3EAfgKAc3EAfgJ6dAAGT2JqZWN0c3EAfgJ+c3EAfgKBdXEAfgKEAAAAA3NxAH4ChnQABGphdmFzcQB+AoZ0AARsYW5ncQB+Ao9zcQB+Anp0AANBbnlzcQB+An5zcQB+AoF1cQB+AoQAAAACc3EAfgKGdAAFc2NhbGFxAH4Cj3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQAC2NvbnRyb2xsZXJzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFNrCvhFHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0ADgvVXNlcnMvbmVhbGJyYW5kaS9jb2RlL2pzb25BcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJ7OMO1AZLXayNmT0xxtgBr25nA+
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB46U+jAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwjikyoXQAD3JlcXVlc3Qyc2Vzc2lvbnNxAH4AC34QkS50AA1yZXF1ZXN0MmZsYXNoc3EAfgALbUnlAnQADHJlcXVlc3QybGFuZ3VxAH4ACQAAARNzcQB+AAsijb6/dAAMUmVzZXRDb250ZW50c3EAfgALH9k0JHQADU5vdEFjY2VwdGFibGVzcQB+AAtEDBu1dAARVGVtcG9yYXJ5UmVkaXJlY3RzcQB+AAu8uMnZdAAIc2VuZEZpbGVzcQB+AAvp79jGdAAPYWRkaW5nVG9TZXNzaW9uc3EAfgALgvg/6nQABkxvY2tlZHNxAH4AC7VqyhJ0AAZub3RpZnlzcQB+AAv4wC7TdAAERlJPTXNxAH4ACwz4qdV0ABBDT05URU5UX0xBTkdVQUdFc3EAfgALMxm36XQAB0NSRUFURURzcQB+AAvlvZPRdAAHdW5hcHBseXNxAH4AC3PHF3t0ABBUT09fTUFOWV9SRVFVRVNUc3EAfgALkcb0RXQAB2N1cnJpZWRzcQB+AAsuYQKCdAAXREVGQVVMVF9NQVhfVEVYVF9MRU5HVEhzcQB+AAvIr1mPdAASdG9sZXJhbnRCb2R5UGFyc2Vyc3EAfgALQCPbj3QAB1dBUk5JTkdzcQB+AAvXz4DxdAAIQ09OVElOVUVzcQB+AAtcFI5NdAAEYm9keXNxAH4AC6ayZMp0AAVjaHVua3NxAH4AC8vL0uB0AAtTRVRfQ09PS0lFMnNxAH4AC2nxefd0AAhIVFRQXzFfMXNxAH4AC6Wm/O10ABNDT05URU5UX0RJU1BPU0lUSU9Oc3EAfgALpZ/CXHQADENPTlRFTlRfVFlQRXNxAH4AC2w8LqZ0AAZCSU5BUllzcQB+AAv+7tbXdAAEd2FpdHNxAH4AC4tQhMt0ABxBQ0NFU1NfQ09OVFJPTF9BTExPV19NRVRIT0RTc3EAfgALYIEiQHQACkJhZEdhdGV3YXlzcQB+AAvHF6lDdAAId2l0aExhbmdzcQB+AAtMifA7dAAQTWV0aG9kTm90QWxsb3dlZHNxAH4AC3luAqJ0AA5Ub29NYW55UmVxdWVzdHNxAH4AC2NFP+V0AApVU0VSX0FHRU5Uc3EAfgALpzTQI3QABEhPU1RzcQB+AAtyDldtdAALQ09OVEVOVF9NRDVzcQB+AAsu6glZdAAOY29weSRkZWZhdWx0JDJzcQB+AAvx96lWdAAHQ3JlYXRlZHNxAH4AC4VZEat0AA0kYXNJbnN0YW5jZU9mc3EAfgAL1z1O83QABWVtcHR5c3EAfgALGLuetnQAEFhfRk9SV0FSREVEX1BPUlRzcQB+AAvr5ae1dAAKSmF2YVNjcmlwdHNxAH4ACzsw9hF0AAtCQURfUkVRVUVTVHNxAH4ACxHTEoB0AAV1c2luZ3NxAH4AC9WXIO50AA5Ob3RJbXBsZW1lbnRlZHNxAH4AC+IgcCh0AAxNQVhfRk9SV0FSRFNzcQB+AAsOB9D5dAAQWF9GT1JXQVJERURfSE9TVHNxAH4AC8S3yq50AANDU1NzcQB+AAsYwyvEdAAMdG9sZXJhbnRKc29uc3EAfgAL/6NVdXQACFNlZU90aGVyc3EAfgAL8wtG33QAB1RSQUlMRVJzcQB+AAsuzaUudAASUFJPWFlfQVVUSEVOVElDQVRFc3EAfgALxAIU13QADUFVVEhPUklaQVRJT05zcQB+AAttDt5vdAADWE1Mc3EAfgALVo8p13QACmFueUNvbnRlbnRzcQB+AAucWe/LdAANQ0FDSEVfQ09OVFJPTHNxAH4AC8Tx/QF0ABtOb25BdXRob3JpdGF0aXZlSW5mb3JtYXRpb25zcQB+AAugxRmLdAAPTk9UX0lNUExFTUVOVEVEc3EAfgALGlkq6HQADHByb2R1Y3RBcml0eXNxAH4ACxzcAv50AAZlcXVhbHNzcQB+AAsjsiRfdAAQUEFZTUVOVF9SRVFVSVJFRHNxAH4AC4jTy010AARqc29uc3EAfgALI4ePw3QAC1BhcnRIYW5kbGVyc3EAfgALTPG5XXQACEFjY2VwdGVkc3EAfgALhmc083QAC1JFVFJZX0FGVEVSc3EAfgALygv+AnQAElJlZGlyZWN0JGRlZmF1bHQkMnNxAH4AC3wt4Y90AA51cmxGb3JtRW5jb2RlZHNxAH4ACwYzVdF0AARKU09Oc3EAfgALBxJoenQACFJlZGlyZWN0c3EAfgALO9fFc3QAE1BSRUNPTkRJVElPTl9GQUlMRURzcQB+AAu+QX8rdAAKaGFuZGxlUGFydHNxAH4AC8ryr9Z0AA5QYXJ0aWFsQ29udGVudHNxAH4ACxuYBHN0ABRVbnN1cHBvcnRlZE1lZGlhVHlwZXNxAH4AC7sixzx0AAhDT05GTElDVHNxAH4AC5gI8Yt0ABJzZW5kRmlsZSRkZWZhdWx0JDJzcQB+AAs5Go96dAAOQUNDRVBUX0NIQVJTRVRzcQB+AAt4KIC5dAARRXhwZWN0YXRpb25GYWlsZWRzcQB+AAsx7CtLdAADVklBc3EAfgALoQSQQXQADGFzSW5zdGFuY2VPZnNxAH4ACyw8TTx0AA9SRVFVRVNUX1RJTUVPVVRzcQB+AAuSxxLFdAAQTVVMVElQTEVfQ0hPSUNFU3NxAH4AC6ZylwR0AAlNdWx0aXBhcnRzcQB+AAteLlokdAAdaGFuZGxlRmlsZVBhcnRBc1RlbXBvcmFyeUZpbGVzcQB+AAvIhlf2dAAPbXVsdGlwYXJ0UGFyc2Vyc3EAfgALpoO0BXQAEU1PVkVEX1BFUk1BTkVOVExZc3EAfgALv+W4e3QAAlRFc3EAfgALMutOlHQADkdhdGV3YXlUaW1lb3V0c3EAfgALMO3+wnQAEENPTlRFTlRfTE9DQVRJT05zcQB+AAsVQxUNdAAPUEFSVElBTF9DT05URU5Uc3EAfgALE89WlHQAE3JlbW92aW5nRnJvbVNlc3Npb25zcQB+AAtC6Z1cdAAUSU5TVUZGSUNJRU5UX1NUT1JBR0VzcQB+AAuTur3ddAARbXVsdGlwYXJ0Rm9ybURhdGFzcQB+AAtPIapzdAAMRVZFTlRfU1RSRUFNc3EAfgAL+r0o9nQADHN5bmNocm9uaXplZHNxAH4ACydoY9N0ABBGYWlsZWREZXBlbmRlbmN5c3EAfgAL1g6gonQABEVUQUdzcQB+AAvWO5M5dAAPTEVOR1RIX1JFUVVJUkVEc3EAfgALuE9973QADndpdGhOZXdTZXNzaW9uc3EAfgALGOQS6HQACkpBVkFTQ1JJUFRzcQB+AAv2uevldAAORW50aXR5VG9vTGFyZ2VzcQB+AAvq9mU6dAAMVU5BVVRIT1JJWkVEc3EAfgAL9pVwhnQAFlVOU1VQUE9SVEVEX01FRElBX1RZUEVzcQB+AAsnA784dAANJGlzSW5zdGFuY2VPZnNxAH4AC8jC9Up0AAdSRUZFUkVSc3EAfgAL0VglKXQAGFJFUVVFU1RfRU5USVRZX1RPT19MQVJHRXNxAH4AC+L9TQV0AAZPUklHSU5zcQB+AAuk8mHvdAALd2l0aENvb2tpZXNzcQB+AAvI3Ph8dAAPQUNDRVBUX0xBTkdVQUdFc3EAfgALavklp3QADE5PVF9NT0RJRklFRHNxAH4AC7vTM6x0AAJhc3NxAH4ACz0+2SR0AAZ0dXBsZWRzcQB+AAuPeZxqdAALd2l0aFNlc3Npb25zcQB+AAszHZvQdAAaSFRUUF9WRVJTSU9OX05PVF9TVVBQT1JURURzcQB+AAtHiNJ0dAAbQUNDRVNTX0NPTlRST0xfQUxMT1dfT1JJR0lOc3EAfgALo8U7C3QAEnNlbmRGaWxlJGRlZmF1bHQkM3NxAH4AC3nih3B0ABNVbnByb2Nlc3NhYmxlRW50aXR5c3EAfgALFUPFKnQABHRleHRzcQB+AAvdJ0pzdAAIZmlsZU5hbWVzcQB+AAvgoXjIdAAIY2FuRXF1YWxzcQB+AAsa7wK8dAAITm90Rm91bmRzcQB+AAtIe/ktdAAISUZfUkFOR0VzcQB+AAvqtijrdAASc2VuZEZpbGUkZGVmYXVsdCQ0c3EAfgALtL8XeXQACGZsYXNoaW5nc3EAfgALO1Ju6HQAB2RlY2h1bmtzcQB+AAvME40TdAAERk9STXNxAH4AC09qtMF0ABNJRl9VTk1PRElGSUVEX1NJTkNFc3EAfgALfeXosHQAE1NXSVRDSElOR19QUk9UT0NPTFNzcQB+AAt20rewdAASVEVNUE9SQVJZX1JFRElSRUNUc3EAfgALZawcvXQADXByb2R1Y3RQcmVmaXhzcQB+AAsLXGDldAAOQ09OVEVOVF9MRU5HVEhzcQB+AAvvs3GFdAANdGVtcG9yYXJ5RmlsZXNxAH4AC9fI+2t0AApTRVRfQ09PS0lFc3EAfgALNsls+3QACW5vdGlmeUFsbHNxAH4ACz6BQdB0AAtyZWFkUmVzb2x2ZXNxAH4AC7JgHup0AANBR0VzcQB+AAtcZWAIdAALQkFEX0dBVEVXQVlzcQB+AAubaiD1dAASRVhQRUNUQVRJT05fRkFJTEVEc3EAfgALUQAY5XQACkNPTk5FQ1RJT05zcQB+AAuj6ij8dAACT2tzcQB+AAu2CfA6dAAMaXNJbnN0YW5jZU9mc3EAfgALU31FNnQAEE1vdmVkUGVybWFuZW50bHlzcQB+AAuDtaisdAACT0tzcQB+AAv04cQmdAARZGlzY2FyZGluZ0Nvb2tpZXNzcQB+AAtRUYBpdAAVQXBwbGljYXRpb25YbWxNYXRjaGVyc3EAfgALTI6A/nQAHEFDQ0VTU19DT05UUk9MX0FMTE9XX0hFQURFUlNzcQB+AAu3BsRydAAOQ0FDSEVfTUFOSUZFU1RzcQB+AAukmQWudAAJRm9yYmlkZGVuc3EAfgAL9tjxlXQAF0h0dHBWZXJzaW9uTm90U3VwcG9ydGVkc3EAfgAL/ag9KXQABFRFWFRzcQB+AAuSo1fgdAAKQmFkUmVxdWVzdHNxAH4AC9VeXWZ0AAVGT1VORHNxAH4ACxJxwvx0AAY8aW5pdD5zcQB+AAsRbYxEdAALTm90TW9kaWZpZWRzcQB+AAsBk3YRdAAEREFURXNxAH4AC6MN3X90AA9jcmVhdGVCYWRSZXN1bHRzcQB+AAsdhX4mdAAFYXN5bmNzcQB+AAu0pelHdAANQ09OVEVOVF9SQU5HRXNxAH4AC0UuT2p0AAlVTkxJTUlURURzcQB+AAt5cCeddAAEJGFtcHNxAH4AC+adJ6F0AAx0b2xlcmFudFRleHRzcQB+AAvWJivPdAAHY2h1bmtlZHNxAH4AC9kavU10ABFUUkFOU0ZFUl9FTkNPRElOR3NxAH4AC8J+NDF0AAtjb250ZW50VHlwZXNxAH4AC9EMU4R0AAVhcHBseXNxAH4AC9k3rCZ0AANyYXdzcQB+AAve02qjdAAFZXJyb3JzcQB+AAvYip89dAADeG1sc3EAfgALl3aCVnQABXBhcnNlc3EAfgALi9QePHQAE1BST1hZX0FVVEhPUklaQVRJT05zcQB+AAupodrZdAACPT1zcQB+AAtuqHXSdAAER09ORXNxAH4AC2jokzp0AAhGaWxlSW5mb3NxAH4AC8G7HGB0AARHb25lc3EAfgALl65mn3QAIEFDQ0VTU19DT05UUk9MX0FMTE9XX0NSRURFTlRJQUxTc3EAfgAL+7FncnQADk5PVF9BQ0NFUFRBQkxFc3EAfgALSnrOv3QABXNwbGl0c3EAfgALK2RRgHQABWNsb25lc3EAfgAL8Xoss3QABnN0cmVhbXNxAH4AC7gB9cF0AAZFWFBFQ1RzcQB+AAtxY7g2dAASU2VydmljZVVuYXZhaWxhYmxlc3EAfgALZCQrP3QACExPQ0FUSU9Oc3EAfgALxTj3inQABFZBUllzcQB+AAt4A+92dAAQV1dXX0FVVEhFTlRJQ0FURXNxAH4ACxZhJWx0AAtBcHBsaWNhdGlvbnNxAH4AC1LptBh0AA5oYW5kbGVGaWxlUGFydHNxAH4AC0ztaHN0AARmZWVkc3EAfgALq8xksnQABFRPRE9zcQB+AAvc8hAndAAPWF9GT1JXQVJERURfRk9Sc3EAfgALWOKca3QACHBhcnROYW1lc3EAfgALw3gqS3QAElByZWNvbmRpdGlvbkZhaWxlZHNxAH4AC653p6d0AAhBQ0NFUFRFRHNxAH4AC2+aZRZ0AARIdG1sc3EAfgALEIjZ9HQACk5PX0NPTlRFTlRzcQB+AAu3mEMMdAAISFRUUF8xXzBzcQB+AAuH71SFdAAVSU5URVJOQUxfU0VSVkVSX0VSUk9Sc3EAfgAL74EXzHQAD2NodW5rJGRlZmF1bHQkMXNxAH4ACzemimF0AAdVUEdSQURFc3EAfgALBH23K3QAFnRvbGVyYW50Rm9ybVVybEVuY29kZWRzcQB+AAtYjT0tdAAJTk9UX0ZPVU5Ec3EAfgAL7aiiOnQAB3Nlc3Npb25zcQB+AAtKjMsddAAPQUNDRVBUX0VOQ09ESU5Hc3EAfgALrVEHG3QAE0ludGVybmFsU2VydmVyRXJyb3JzcQB+AAv5I9FgdAAHRVhQSVJFU3NxAH4ACy8Kt790AA5jb3B5JGRlZmF1bHQkM3NxAH4AC+Gke4x0AARjb3B5c3EAfgALty34FXQAH1JFUVVFU1RFRF9SQU5HRV9OT1RfU0FUSVNGSUFCTEVzcQB+AAuBUh7/dAAGaGVhZGVyc3EAfgAL8cTB6XQACHRvU3RyaW5nc3EAfgALdJXT3XQADFVuYXV0aG9yaXplZHNxAH4AC/5OX8B0AARmaWxlc3EAfgALo7gtWnQADlJlcXVlc3RUaW1lb3V0c3EAfgALgiAvq3QABkFDQ0VQVHNxAH4AC5hL8BV0AApVcmlUb29Mb25nc3EAfgAL41L6rHQAD0dBVEVXQVlfVElNRU9VVHNxAH4AC59v7sR0AAtNdWx0aVN0YXR1c3NxAH4AC+RQzcF0AAxjbGVhcmluZ0xhbmdzcQB+AAstoXs8dAAGU0VSVkVSc3EAfgALF8mreXQAHUFDQ0VTU19DT05UUk9MX1JFUVVFU1RfTUVUSE9Ec3EAfgALMc8jxXQAFFVOUFJPQ0VTU0FCTEVfRU5USVRZc3EAfgAL8Ky7AnQAFkFDQ0VTU19DT05UUk9MX01BWF9BR0VzcQB+AAuEQ+9PdAACIT1zcQB+AAvuwizJdAANTEFTVF9NT0RJRklFRHNxAH4ACybum9l0AB1BQ0NFU1NfQ09OVFJPTF9FWFBPU0VfSEVBREVSU3NxAH4AC9Bq9WB0AB5BQ0NFU1NfQ09OVFJPTF9SRVFVRVNUX0hFQURFUlNzcQB+AAsCEHwhdAALd2l0aENoYXJzZXRzcQB+AAuVmZLedAAIQ29uZmxpY3RzcQB+AAsB/1EEdAAKY29ubmVjdGlvbnNxAH4AC4Dd9c50AAVBTExPV3NxAH4AC5D8hWV0AAZDT09LSUVzcQB+AAv+0gUGdAARSUZfTU9ESUZJRURfU0lOQ0VzcQB+AAsIEQqvdAAIZ2V0Q2xhc3NzcQB+AAveOaDidAADWG1sc3EAfgALlNjZSHQAGUNPTlRFTlRfVFJBTlNGRVJfRU5DT0RJTkdzcQB+AAsNK3C8dAAOY29weSRkZWZhdWx0JDFzcQB+AAtHN5yFdAAESFRNTHNxAH4AC7V8uHt0AAVGb3VuZHNxAH4AC/xqbX90AB1OT05fQVVUSE9SSVRBVElWRV9JTkZPUk1BVElPTnNxAH4ACzfRHUR0AAZyZW5kZXJzcQB+AAsbm3hTdAAGUFJBR01Bc3EAfgALkaPhWHQACElGX01BVENIc3EAfgALGjcCqXQADmhhbmRsZURhdGFQYXJ0c3EAfgALGzPg6HQAHVBST1hZX0FVVEhFTlRJQ0FUSU9OX1JFUVVJUkVEc3EAfgALM3OG+nQADVJFU0VUX0NPTlRFTlRzcQB+AAtY/oY4dAAJU0VFX09USEVSc3EAfgALz2gfpHQAEUZBSUxFRF9ERVBFTkRFTkNZc3EAfgAL1K2COHQAAm5lc3EAfgALV+Wz3nQAEENPTlRFTlRfRU5DT0RJTkdzcQB+AAuRw4ccdAATSW5zdWZmaWNpZW50U3RvcmFnZXNxAH4AC0t6jjR0AAVSQU5HRXNxAH4AC83qMcB0AAlVU0VfUFJPWFlzcQB+AAuxQ+uWdAAHQWNjZXB0c3NxAH4AC+G3NUt0AAdDSFVOS0VEc3EAfgALpwjvsXQAFFJFUVVFU1RfVVJJX1RPT19MT05Hc3EAfgAL8M+jBnQAElJlZGlyZWN0JGRlZmF1bHQkM3NxAH4AC7Y8T6l0AAZMT0NLRURzcQB+AAuMG24SdAAEd2hlbnNxAH4AC12qpLN0AARKc29uc3EAfgAL4pVdJXQACW1heExlbmd0aHNxAH4AC5EXCn90AAlGT1JCSURERU5zcQB+AAtpB2fTdAASTUVUSE9EX05PVF9BTExPV0VEc3EAfgAL/q734nQAAmVxc3EAfgALrOE6bXQAD1BhcnRJbmZvTWF0Y2hlcnNxAH4AC3FJiG90AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAvMCDf3dAANSUZfTk9ORV9NQVRDSHNxAH4AC0oYnr10AA1BQ0NFUFRfUkFOR0VTc3EAfgAL004jcHQACU5vQ29udGVudHNxAH4AC+Aog250ABFYX0ZPUldBUkRFRF9QUk9UT3NxAH4AC2Y5dAF0AAt0b2xlcmFudFhtbHNxAH4ACxsYRKx0AAxNVUxUSV9TVEFUVVNzcQB+AAsRLs4XdAACIyNzcQB+AAuCnaTidAAIZmluYWxpemVzcQB+AAsVQZ7GdAATU0VSVklDRV9VTkFWQUlMQUJMRXNxAH4ACxeEbt10AAVpbmRleHNxAH4ACwBVrkZ0AA5wcm9kdWN0RWxlbWVudHNxAH4AC0UxiT50AAhoYXNoQ29kZXNxAH4AC5LXgcF0AA9GaWxlSW5mb01hdGNoZXJzcQB+AAt5rv2sdAAGU3RhdHVzc3EAfgALRF3sZ3QAC3dpdGhIZWFkZXJzc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4CQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAF2NvbnRyb2xsZXJzLkFwcGxpY2F0aW9udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4CXHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4CWwBwc3EAfgJgc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AkNMAAlpbmhlcml0ZWRxAH4CQ0wAB3BhcmVudHNxAH4CQ3hxAH4CZHNxAH4CWwBwc3EAfgJgdXEAfgI+AAAAAHNxAH4CWwBwc3EAfgJgdXEAfgI+AAAAAHNxAH4CWwBwc3EAfgJgdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAxzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgJjdAAKQ29udHJvbGxlcnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4CY3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEcGxheXNxAH4CgHQAA2FwaXNxAH4CgHQAA212Y3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgKBc3EAfgJ0dAAJUmVuZGVyaW5ncQB+AnpzcQB+AnR0ABFSZXF1ZXN0RXh0cmFjdG9yc3EAfgJ6c3EAfgJ0dAAQQWNjZXB0RXh0cmFjdG9yc3EAfgJ6c3EAfgJ0dAAMQ29udGVudFR5cGVzc3EAfgJ4c3EAfgJ7dXEAfgJ+AAAABHNxAH4CgHQABHBsYXlzcQB+AoBxAH4ChXNxAH4CgHQABGh0dHBxAH4CiXNxAH4CdHQAC0hlYWRlck5hbWVzcQB+ApJzcQB+AnR0AAZTdGF0dXNxAH4CknNxAH4CdHQADEh0dHBQcm90b2NvbHEAfgKSc3EAfgJ0dAALQm9keVBhcnNlcnNxAH4CenNxAH4CdHQAB1Jlc3VsdHNxAH4CenNxAH4CdHQABk9iamVjdHNxAH4CeHNxAH4Ce3VxAH4CfgAAAANzcQB+AoB0AARqYXZhc3EAfgKAdAAEbGFuZ3EAfgKJc3EAfgJ0dAADQW55c3EAfgJ4c3EAfgJ7dXEAfgJ+AAAAAnNxAH4CgHQABXNjYWxhcQB+Aol1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTawr4RR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAA4L1VzZXJzL25lYWxicmFuZGkvY29kZS9qc29uQXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT9VYHy5JxBEdlIeejtBC74PN2Tlg==
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHATysxyAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAABc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwKGjeEHQABmZvcm1hdHVxAH4ACQAAACZzcQB+AAs5YPBPdAAGbm90aWZ5c3EAfgALk5XPvHQAB3VuYXBwbHlzcQB+AAt6jP+LdAAEbmFtZXNxAH4AC85e3Rx0AAR3YWl0c3EAfgAL7GHVe3QADmNvcHkkZGVmYXVsdCQyc3EAfgALDABrwnQADSRhc0luc3RhbmNlT2ZzcQB+AAsGm0LgdAAMcHJvZHVjdEFyaXR5c3EAfgAL/OzEGnQABmVxdWFsc3NxAH4AC1m/rM50AAVFdmVudHNxAH4ACzbUja50AAtkZXNjcmlwdGlvbnNxAH4AC7nP0wd0AAxhc0luc3RhbmNlT2ZzcQB+AAuskGpKdAAMc3luY2hyb25pemVkc3EAfgALPkn1p3QADSRpc0luc3RhbmNlT2ZzcQB+AAswV7+fdAAIY2FuRXF1YWxzcQB+AAtgiwbUdAANcHJvZHVjdFByZWZpeHNxAH4AC5dUsdR0AAlub3RpZnlBbGxzcQB+AAtRz3DHdAALcmVhZFJlc29sdmVzcQB+AAslvHFLdAAMaXNJbnN0YW5jZU9mc3EAfgAL9G2Ug3QABjxpbml0PnNxAH4ACxS02E10AAVhcHBseXNxAH4ACy1Eq6d0AAI9PXNxAH4AC222uQZ0AAVjbG9uZXNxAH4AC0a1DfF0AA5jb3B5JGRlZmF1bHQkM3NxAH4AC24Jopl0AARjb3B5c3EAfgALrMi7cHQACHRvU3RyaW5nc3EAfgALmbGq6HQABXBsYWNlc3EAfgALz+DAvXQAAiE9c3EAfgALypD1KXQACGdldENsYXNzc3EAfgALYLAEEHQADmNvcHkkZGVmYXVsdCQxc3EAfgALeL04wHQABHNhdmVzcQB+AAtmfMjodAACbmVzcQB+AAsbVt/kdAACZXFzcQB+AAsTpfB4dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALw/QmhnQAAiMjc3EAfgALuNNB03QABGxpc3RzcQB+AAuFYYO+dAAIZmluYWxpemVzcQB+AAuFWQHhdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAtaSjEsdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBleHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAMbW9kZWxzLkV2ZW50dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgB+eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB9AHBzcQB+AIJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZUwACWluaGVyaXRlZHEAfgBlTAAHcGFyZW50c3EAfgBleHEAfgCGc3EAfgB9AHBzcQB+AIJ1cQB+AGAAAAAAc3EAfgB9AHBzcQB+AIJ1cQB+AGAAAAAAc3EAfgB9AHBzcQB+AIJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIV0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKNzcQB+AJZxAH4AmXNxAH4AmnNxAH4AnXVxAH4AoAAAAANzcQB+AKJ0AARqYXZhc3EAfgCidAACaW9xAH4Ap3NxAH4AlnQAB1Byb2R1Y3RxAH4AnHNxAH4AlnQABkVxdWFsc3EAfgCcc3EAfgCWdAAGT2JqZWN0c3EAfgCac3EAfgCddXEAfgCgAAAAA3NxAH4AonEAfgCtc3EAfgCidAAEbGFuZ3EAfgCnc3EAfgCWdAADQW55cQB+AJxzcQB+AGJxAH4Ab3VxAH4AcAAAAABzcQB+AHIAdAAMbW9kZWxzLkV2ZW50dXEAfgB1AAAAAH5xAH4Ad3QABk1vZHVsZXVxAH4AewAAAABzcQB+AH0AcHNxAH4AgnEAfgCHc3EAfgB9AHBzcQB+AIJzcQB+AIpzcQB+AH0AcHNxAH4AgnVxAH4AYAAAAABzcQB+AH0AcHNxAH4AgnVxAH4AYAAAAABzcQB+AH0AcHNxAH4AgnVxAH4AlAAAAARzcQB+AJZxAH4AmXNxAH4AmnNxAH4AnXVxAH4AoAAAAAJzcQB+AKJxAH4ApXEAfgCnc3EAfgCWcQB+AJlzcQB+AJpzcQB+AJ11cQB+AKAAAAADc3EAfgCicQB+AK1zcQB+AKJ0AAJpb3EAfgCnc3EAfgCWcQB+ALVzcQB+AJpzcQB+AJ11cQB+AKAAAAADc3EAfgCicQB+AK1zcQB+AKJxAH4Au3EAfgCnc3EAfgCWcQB+AL1xAH4A1XVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQABm1vZGVsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTawr4RR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAA4L1VzZXJzL25lYWxicmFuZGkvY29kZS9qc29uQXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQXUXqQhibVMZKV8ClqXgP7TgKe2A==
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA8Vk8TAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAABc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwFcyHwnQABmZvcm1hdHVxAH4ACQAAACJzcQB+AAv/Rg6tdAAGbm90aWZ5c3EAfgALVzii1HQAB3VuYXBwbHlzcQB+AAv2gsBKdAAITG9jYXRpb25zcQB+AAskOewkdAAEd2FpdHNxAH4ACyA+eJx0AA5jb3B5JGRlZmF1bHQkMnNxAH4ACxfGQlV0AA0kYXNJbnN0YW5jZU9mc3EAfgALwVGtnHQADHByb2R1Y3RBcml0eXNxAH4AC2I74Sd0AAZlcXVhbHNzcQB+AAuoRxtqdAAMYXNJbnN0YW5jZU9mc3EAfgALCwqT0XQADHN5bmNocm9uaXplZHNxAH4AC3HejXd0AA0kaXNJbnN0YW5jZU9mc3EAfgAL/JC9rnQACGNhbkVxdWFsc3EAfgAL4k91cnQADXByb2R1Y3RQcmVmaXhzcQB+AAsEZ/XfdAAJbm90aWZ5QWxsc3EAfgALmT+BMHQAC3JlYWRSZXNvbHZlc3EAfgALGskVnXQADGlzSW5zdGFuY2VPZnNxAH4AC0IqgQ50AARsb25nc3EAfgALj80qjHQABjxpbml0PnNxAH4AC/2BlE90AAVhcHBseXNxAH4ACz5y9qN0AAI9PXNxAH4AC/wRKKd0AAVjbG9uZXNxAH4AC6L7MIl0AARjb3B5c3EAfgALyeNIOHQACHRvU3RyaW5nc3EAfgALXHyEEnQAAiE9c3EAfgALH27PoHQACGdldENsYXNzc3EAfgALjRecn3QADmNvcHkkZGVmYXVsdCQxc3EAfgALbbR9JXQAAm5lc3EAfgALbHL1W3QAAmVxc3EAfgALGEk253QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC1/0BHl0AANsYXRzcQB+AAtRpTF9dAACIyNzcQB+AAvaa3l4dAAIZmluYWxpemVzcQB+AAvwj5yCdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAvpNGVzdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBdeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAPbW9kZWxzLkxvY2F0aW9udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgB2eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB1AHBzcQB+AHpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AXUwACWluaGVyaXRlZHEAfgBdTAAHcGFyZW50c3EAfgBdeHEAfgB+c3EAfgB1AHBzcQB+AHp1cQB+AFgAAAAAc3EAfgB1AHBzcQB+AHp1cQB+AFgAAAAAc3EAfgB1AHBzcQB+AHp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AH10AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AH1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJtzcQB+AI5xAH4AkXNxAH4AknNxAH4AlXVxAH4AmAAAAANzcQB+AJp0AARqYXZhc3EAfgCadAACaW9xAH4An3NxAH4AjnQAB1Byb2R1Y3RxAH4AlHNxAH4AjnQABkVxdWFsc3EAfgCUc3EAfgCOdAAGT2JqZWN0c3EAfgCSc3EAfgCVdXEAfgCYAAAAA3NxAH4AmnEAfgClc3EAfgCadAAEbGFuZ3EAfgCfc3EAfgCOdAADQW55cQB+AJRzcQB+AFpxAH4AZ3VxAH4AaAAAAABzcQB+AGoAdAAPbW9kZWxzLkxvY2F0aW9udXEAfgBtAAAAAH5xAH4Ab3QABk1vZHVsZXVxAH4AcwAAAABzcQB+AHUAcHNxAH4AenEAfgB/c3EAfgB1AHBzcQB+AHpzcQB+AIJzcQB+AHUAcHNxAH4AenVxAH4AWAAAAABzcQB+AHUAcHNxAH4AenVxAH4AWAAAAABzcQB+AHUAcHNxAH4AenVxAH4AjAAAAARzcQB+AI5xAH4AkXNxAH4AknNxAH4AlXVxAH4AmAAAAAJzcQB+AJpxAH4AnXEAfgCfc3EAfgCOcQB+AJFzcQB+AJJzcQB+AJV1cQB+AJgAAAADc3EAfgCacQB+AKVzcQB+AJp0AAJpb3EAfgCfc3EAfgCOcQB+AK1zcQB+AJJzcQB+AJV1cQB+AJgAAAADc3EAfgCacQB+AKVzcQB+AJpxAH4As3EAfgCfc3EAfgCOcQB+ALVxAH4AzXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQABm1vZGVsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTawr4RR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAA4L1VzZXJzL25lYWxicmFuZGkvY29kZS9qc29uQXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSOD+8hJtCDFqoqdhg6Z+uiO3oE2Q==
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB84Dq5AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAABc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwpw5Ec3QABmZvcm1hdHVxAH4ACQAAACRzcQB+AAuZ0VjgdAAGbm90aWZ5c3EAfgAL3z7FY3QAB3VuYXBwbHlzcQB+AAuZYipPdAAEbmFtZXNxAH4AC824JoJ0AAR3YWl0c3EAfgAL53gEB3QADmNvcHkkZGVmYXVsdCQyc3EAfgALk+dhCXQADSRhc0luc3RhbmNlT2ZzcQB+AAs5V266dAAIbG9jYXRpb25zcQB+AAv+X61tdAAMcHJvZHVjdEFyaXR5c3EAfgALu3rxknQABmVxdWFsc3NxAH4ACz0hwxF0AAxhc0luc3RhbmNlT2ZzcQB+AAs60qmydAAMc3luY2hyb25pemVkc3EAfgAL1cN5DnQADSRpc0luc3RhbmNlT2ZzcQB+AAtmP+EPdAAIY2FuRXF1YWxzcQB+AAt+8NTFdAANcHJvZHVjdFByZWZpeHNxAH4AC+gYzmZ0AAlub3RpZnlBbGxzcQB+AAuU+h7vdAALcmVhZFJlc29sdmVzcQB+AAvvEVYOdAAMaXNJbnN0YW5jZU9mc3EAfgALQeTO3XQABjxpbml0PnNxAH4AC4E55xF0AAVhcHBseXNxAH4AC90NrF50AAI9PXNxAH4AC0l1JgZ0AAVjbG9uZXNxAH4AC6zEc6Z0AARjb3B5c3EAfgALo3nJWHQACHRvU3RyaW5nc3EAfgALydv6p3QAAiE9c3EAfgALqDRo4nQACGdldENsYXNzc3EAfgALUdnXOHQADmNvcHkkZGVmYXVsdCQxc3EAfgALDKoxa3QABVBsYWNlc3EAfgALyHsCyHQABHNhdmVzcQB+AAtzebi6dAACbmVzcQB+AAvX5F7BdAACZXFzcQB+AAsolSwudAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALD//iqXQAAiMjc3EAfgALdyraknQABGxpc3RzcQB+AAv/anMKdAAIZmluYWxpemVzcQB+AAuwDB4HdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAs0ub9idAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBheHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAMbW9kZWxzLlBsYWNldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgB6eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB5AHBzcQB+AH5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AYUwACWluaGVyaXRlZHEAfgBhTAAHcGFyZW50c3EAfgBheHEAfgCCc3EAfgB5AHBzcQB+AH51cQB+AFwAAAAAc3EAfgB5AHBzcQB+AH51cQB+AFwAAAAAc3EAfgB5AHBzcQB+AH51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIF0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJ9zcQB+AJJxAH4AlXNxAH4AlnNxAH4AmXVxAH4AnAAAAANzcQB+AJ50AARqYXZhc3EAfgCedAACaW9xAH4Ao3NxAH4AknQAB1Byb2R1Y3RxAH4AmHNxAH4AknQABkVxdWFsc3EAfgCYc3EAfgCSdAAGT2JqZWN0c3EAfgCWc3EAfgCZdXEAfgCcAAAAA3NxAH4AnnEAfgCpc3EAfgCedAAEbGFuZ3EAfgCjc3EAfgCSdAADQW55cQB+AJhzcQB+AF5xAH4Aa3VxAH4AbAAAAABzcQB+AG4AdAAMbW9kZWxzLlBsYWNldXEAfgBxAAAAAH5xAH4Ac3QABk1vZHVsZXVxAH4AdwAAAABzcQB+AHkAcHNxAH4AfnEAfgCDc3EAfgB5AHBzcQB+AH5zcQB+AIZzcQB+AHkAcHNxAH4AfnVxAH4AXAAAAABzcQB+AHkAcHNxAH4AfnVxAH4AXAAAAABzcQB+AHkAcHNxAH4AfnVxAH4AkAAAAARzcQB+AJJxAH4AlXNxAH4AlnNxAH4AmXVxAH4AnAAAAAJzcQB+AJ5xAH4AoXEAfgCjc3EAfgCScQB+AJVzcQB+AJZzcQB+AJl1cQB+AJwAAAADc3EAfgCecQB+AKlzcQB+AJ50AAJpb3EAfgCjc3EAfgCScQB+ALFzcQB+AJZzcQB+AJl1cQB+AJwAAAADc3EAfgCecQB+AKlzcQB+AJ5xAH4At3EAfgCjc3EAfgCScQB+ALlxAH4A0XVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQABm1vZGVsc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTawr4RR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdAA4L1VzZXJzL25lYWxicmFuZGkvY29kZS9qc29uQXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRN9O/Ld2XcSFf+YqABrfzipd0jmQ==
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/controllers/routes.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC4IVHqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTawr4RR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+ABp4cHQAOC9Vc2Vycy9uZWFsYnJhbmRpL2NvZGUvanNvbkFwaS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUPawZdzu/ENxK0UBpIOvzVtHUjS0=
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDrk+IYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBQSsiN0AAZub3RpZnlzcQB+AAxt6ZbwdAAKbGlzdFBsYWNlc3NxAH4ADMzFOyN0AAR3YWl0c3EAfgAMSxccH3QADSRhc0luc3RhbmNlT2ZzcQB+AAzZ6OOldAAJc2F2ZVBsYWNlc3EAfgAM4pcqInQABmVxdWFsc3NxAH4ADN+xbEZ0AAxhc0luc3RhbmNlT2ZzcQB+AAwtro6fdAAMc3luY2hyb25pemVkc3EAfgAMEzyAdnQADSRpc0luc3RhbmNlT2ZzcQB+AAx7jKt4dAANUmV2ZXJzZUFzc2V0c3NxAH4ADEIthjR0AAlub3RpZnlBbGxzcQB+AAxzlqXMdAAMaXNJbnN0YW5jZU9mc3EAfgAMoRAyuHQAClJldmVyc2VBcGlzcQB+AAxS780LdAAGPGluaXQ+c3EAfgAMBCqqpXQAAmF0c3EAfgAMkndQLnQAAj09c3EAfgAM8ftp/HQABWNsb25lc3EAfgAMTGIgPnQACmxpc3RFdmVudHNzcQB+AAxuYNvcdAAIdG9TdHJpbmdzcQB+AAwk2OfsdAACIT1zcQB+AAxCLyYGdAAIZ2V0Q2xhc3NzcQB+AAx5Lvy6dAACbmVzcQB+AAx+X9QAdAACZXFzcQB+AAz93U9BdAACIyNzcQB+AAz2jFyndAAIZmluYWxpemVzcQB+AAwT8mgkdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAGc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBLeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAZY29udHJvbGxlcnMuUmV2ZXJzZUFzc2V0c3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AZHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AYwBwc3EAfgBoc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AbHNxAH4AYwBwc3EAfgBodXEAfgBGAAAAAHNxAH4AYwBwc3EAfgBodXEAfgBGAAAAAHNxAH4AYwBwc3EAfgBodXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBrdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBrc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCIdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCJc3EAfgB8dAADQW55c3EAfgCAc3EAfgCDdXEAfgCGAAAAAnNxAH4AiHQABXNjYWxhcQB+AI9zcQB+AEhxAH4AVXVxAH4AVgAAAABzcQB+AFgAdAAWY29udHJvbGxlcnMuUmV2ZXJzZUFwaXVxAH4AWwAAAABxAH4AX3VxAH4AYQAAAABzcQB+AGMAcHNxAH4AaHEAfgBtc3EAfgBjAHBzcQB+AGhzcQB+AHBzcQB+AGMAcHNxAH4AaHVxAH4ARgAAAABzcQB+AGMAcHNxAH4AaHVxAH4ARgAAAABzcQB+AGMAcHNxAH4AaHVxAH4AegAAAAJzcQB+AHxxAH4Af3NxAH4AgHNxAH4Ag3VxAH4AhgAAAANzcQB+AIhxAH4Ai3NxAH4AiHEAfgCNcQB+AI9zcQB+AHxxAH4AkXNxAH4AgHNxAH4Ag3VxAH4AhgAAAAJzcQB+AIhxAH4AlnEAfgCPc3EAfgBIcQB+AFV1cQB+AFYAAAAAc3EAfgBYAHQAJGNvbnRyb2xsZXJzLmphdmFzY3JpcHQuUmV2ZXJzZUFzc2V0c3VxAH4AWwAAAABxAH4AX3VxAH4AYQAAAABzcQB+AGMAcHNxAH4AaHEAfgBtc3EAfgBjAHBzcQB+AGhzcQB+AHBzcQB+AGMAcHNxAH4AaHVxAH4ARgAAAABzcQB+AGMAcHNxAH4AaHVxAH4ARgAAAABzcQB+AGMAcHNxAH4AaHVxAH4AegAAAAJzcQB+AHxxAH4Af3NxAH4AgHNxAH4Ag3VxAH4AhgAAAANzcQB+AIhxAH4Ai3NxAH4AiHEAfgCNcQB+AI9zcQB+AHxxAH4AkXNxAH4AgHNxAH4Ag3VxAH4AhgAAAAJzcQB+AIhxAH4AlnEAfgCPc3EAfgBIcQB+AFV1cQB+AFYAAAAAc3EAfgBYAHQAIWNvbnRyb2xsZXJzLmphdmFzY3JpcHQuUmV2ZXJzZUFwaXVxAH4AWwAAAABxAH4AX3VxAH4AYQAAAABzcQB+AGMAcHNxAH4AaHEAfgBtc3EAfgBjAHBzcQB+AGhzcQB+AHBzcQB+AGMAcHNxAH4AaHVxAH4ARgAAAABzcQB+AGMAcHNxAH4AaHVxAH4ARgAAAABzcQB+AGMAcHNxAH4AaHVxAH4AegAAAAJzcQB+AHxxAH4Af3NxAH4AgHNxAH4Ag3VxAH4AhgAAAANzcQB+AIhxAH4Ai3NxAH4AiHEAfgCNcQB+AI9zcQB+AHxxAH4AkXNxAH4AgHNxAH4Ag3VxAH4AhgAAAAJzcQB+AIhxAH4AlnEAfgCPc3EAfgBIcQB+AFV1cQB+AFYAAAAAc3EAfgBYAHQAHWNvbnRyb2xsZXJzLnJlZi5SZXZlcnNlQXNzZXRzdXEAfgBbAAAAAHEAfgBfdXEAfgBhAAAAAHNxAH4AYwBwc3EAfgBocQB+AG1zcQB+AGMAcHNxAH4AaHNxAH4AcHNxAH4AYwBwc3EAfgBodXEAfgBGAAAAAHNxAH4AYwBwc3EAfgBodXEAfgBGAAAAAHNxAH4AYwBwc3EAfgBodXEAfgB6AAAAAnNxAH4AfHEAfgB/c3EAfgCAc3EAfgCDdXEAfgCGAAAAA3NxAH4AiHEAfgCLc3EAfgCIcQB+AI1xAH4Aj3NxAH4AfHEAfgCRc3EAfgCAc3EAfgCDdXEAfgCGAAAAAnNxAH4AiHEAfgCWcQB+AI9zcQB+AEhxAH4AVXVxAH4AVgAAAABzcQB+AFgAdAAaY29udHJvbGxlcnMucmVmLlJldmVyc2VBcGl1cQB+AFsAAAAAcQB+AF91cQB+AGEAAAAAc3EAfgBjAHBzcQB+AGhxAH4AbXNxAH4AYwBwc3EAfgBoc3EAfgBwc3EAfgBjAHBzcQB+AGh1cQB+AEYAAAAAc3EAfgBjAHBzcQB+AGh1cQB+AEYAAAAAc3EAfgBjAHBzcQB+AGh1cQB+AHoAAAACc3EAfgB8cQB+AH9zcQB+AIBzcQB+AIN1cQB+AIYAAAADc3EAfgCIcQB+AItzcQB+AIhxAH4AjXEAfgCPc3EAfgB8cQB+AJFzcQB+AIBzcQB+AIN1cQB+AIYAAAACc3EAfgCIcQB+AJZxAH4Aj3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAD2NvbnRyb2xsZXJzLnJlZnNxAH4BNHQAFmNvbnRyb2xsZXJzLmphdmFzY3JpcHRzcQB+ATR0AAtjb250cm9sbGVyc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTawr4RR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA4L1VzZXJzL25lYWxicmFuZGkvY29kZS9qc29uQXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQdQLxlnLYxqrp0+CM80vwPbW2OTA==
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDBQiOvAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJ3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNmcaZl0AAZub3RpZnlzcQB+AAwiScSjdAAgY29udHJvbGxlcnNfQXBpX3NhdmVQbGFjZTFfcm91dGVzcQB+AAwN+gRHdAAKYmFkUmVxdWVzdHNxAH4ADGEZPup0AAR3YWl0c3EAfgAMt39XaHQADSRhc0luc3RhbmNlT2ZzcQB+AAyI/p7sdAAGcm91dGVzc3EAfgAMwfB/qXQADWNyZWF0ZUludm9rZXJzcQB+AAzNbCH7dAAGZXF1YWxzc3EAfgAMfI6+2HQABnByZWZpeHNxAH4ADLuvBfB0AAxhc0luc3RhbmNlT2ZzcQB+AAymn1pSdAANZG9jdW1lbnRhdGlvbnNxAH4ADKdUef10ACJjb250cm9sbGVyc19BcGlfc2F2ZVBsYWNlMV9pbnZva2Vyc3EAfgAMTsSPI3QAI2NvbnRyb2xsZXJzX0FwaV9saXN0RXZlbnRzMl9pbnZva2Vyc3EAfgAMGwurlHQADHN5bmNocm9uaXplZHNxAH4ADKwlT450AA0kaXNJbnN0YW5jZU9mc3EAfgAMRGXld3QACmhhbmRsZXJGb3JzcQB+AAzwWR2odAAHX3ByZWZpeHNxAH4ADCe/qBh0AAlub3RpZnlBbGxzcQB+AAygXTJ4dAAhY29udHJvbGxlcnNfQXBpX2xpc3RQbGFjZXMwX3JvdXRlc3EAfgAMkU7333QADGlzSW5zdGFuY2VPZnNxAH4ADCTisLF0ACNjb250cm9sbGVyc19BcGlfbGlzdFBsYWNlczBfaW52b2tlcnNxAH4ADCEn4WJ0ABxjb250cm9sbGVyc19Bc3NldHNfYXQzX3JvdXRlc3EAfgAMbWv+6HQAAj09c3EAfgAMNPW4JnQABWNsb25lc3EAfgAMBZZKe3QABlJvdXRlc3NxAH4ADENSQF50AB5jb250cm9sbGVyc19Bc3NldHNfYXQzX2ludm9rZXJzcQB+AAxkQ2fqdAAIdG9TdHJpbmdzcQB+AAyFTv/9dAACIT1zcQB+AAxyVH6ndAAJZmFrZVZhbHVlc3EAfgAMAUY3rXQACGdldENsYXNzc3EAfgAMSg7t53QACXNldFByZWZpeHNxAH4ADFdVbbd0ACFjb250cm9sbGVyc19BcGlfbGlzdEV2ZW50czJfcm91dGVzcQB+AAwlFm+0dAACbmVzcQB+AAyVCqVldAAEY2FsbHNxAH4ADC5URZZ0AAJlcXNxAH4ADCKtTcp0AA1kZWZhdWx0UHJlZml4c3EAfgAMW1x1BHQAAiMjc3EAfgAMhEZelXQACGZpbmFsaXplc3EAfgAMrTlrv3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgA/dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AfXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AfABwc3EAfgCBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGVMAAlpbmhlcml0ZWRxAH4AZUwAB3BhcmVudHNxAH4AZXhxAH4AhXNxAH4AfABwc3EAfgCBdXEAfgBgAAAAAHNxAH4AfABwc3EAfgCBdXEAfgBgAAAAAHNxAH4AfABwc3EAfgCBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCEdAAGUm91dGVzc3EAfgCVdAAGUm91dGVyc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCEc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgCjdAAEY29yZXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCkc3EAfgCVdAAGT2JqZWN0c3EAfgCbc3EAfgCedXEAfgChAAAAA3NxAH4Ao3QABGphdmFzcQB+AKN0AARsYW5ncQB+AKpzcQB+AJV0AANBbnlzcQB+AJtzcQB+AJ51cQB+AKEAAAACc3EAfgCjdAAFc2NhbGFxAH4AqnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFNrCvhFHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADgvVXNlcnMvbmVhbGJyYW5kaS9jb2RlL2pzb25BcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFCol7vNltynqCk9ghSG7iyC3yuzG
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDbHmBcAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAInNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDVUoKt0AAZub3RpZnlzcQB+AAzV6FLWdAAGZm9ybWF0c3EAfgAMaNQYmnQABHdhaXRzcQB+AAxSAcPKdAANJGFzSW5zdGFuY2VPZnNxAH4ADFDZFZJ0AAxwcm9kdWN0QXJpdHlzcQB+AAxq5aasdAAGZXF1YWxzc3EAfgAM+GEw7HQADGFzSW5zdGFuY2VPZnNxAH4ADNHc0HB0AAFmc3EAfgAML6XJyHQADHN5bmNocm9uaXplZHNxAH4ADByZs/N0AAlfZGlzcGxheV9zcQB+AAxLVaBwdAANJGlzSW5zdGFuY2VPZnNxAH4ADCLZIGB0AANyZWZzcQB+AAw52APhdAAIY2FuRXF1YWxzcQB+AAx7mLCVdAANcHJvZHVjdFByZWZpeHNxAH4ADO2IXTl0AAlub3RpZnlBbGxzcQB+AAzWHE4MdAALcmVhZFJlc29sdmVzcQB+AAxr9NgxdAAMaXNJbnN0YW5jZU9mc3EAfgAMpHCxwXQABWFwcGx5c3EAfgAMHNKOunQAAj09c3EAfgAMb3fhXHQABWNsb25lc3EAfgAMbzLXtXQABGNvcHlzcQB+AAwaY2oIdAAIdG9TdHJpbmdzcQB+AAyFbOdVdAACIT1zcQB+AAxEyrvwdAAIZ2V0Q2xhc3NzcQB+AAxGhC/8dAAOY29weSRkZWZhdWx0JDFzcQB+AAxSVfHfdAAGcmVuZGVyc3EAfgAMnyMNjHQAAm5lc3EAfgAM+/2EdXQAAmVxc3EAfgAMiKJzlHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADL/EnzZ0AAIjI3NxAH4ADJLr+590AAhmaW5hbGl6ZXNxAH4ADAZiP+d0AAVpbmRleHNxAH4ADGKrc2x0AA5wcm9kdWN0RWxlbWVudHNxAH4ADOpsgOt0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFt4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABB2aWV3cy5odG1sLmluZGV4dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AdHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AcwBwc3EAfgB4c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFtMAAlpbmhlcml0ZWRxAH4AW0wAB3BhcmVudHNxAH4AW3hxAH4AfHNxAH4AcwBwc3EAfgB4dXEAfgBWAAAAAHNxAH4AcwBwc3EAfgB4dXEAfgBWAAAAAHNxAH4AcwBwc3EAfgB4dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAhzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBldAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Ae3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHEAfgCNeHEAfgB7dAAJVGVtcGxhdGUxc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB7c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARwbGF5c3EAfgCbdAAFdHdpcmxzcQB+AJt0AANhcGlzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AnHVxAH4AigAAAAJzcQB+AJB0AAZTdHJpbmdzcQB+AJNzcQB+AJZ1cQB+AJkAAAADc3EAfgCbdAAEamF2YXNxAH4Am3QABGxhbmdxAH4ApHNxAH4AkHQABEh0bWxxAH4AlXNxAH4AjHNxAH4AkHQAEUJhc2VTY2FsYVRlbXBsYXRlcQB+AJV1cQB+AIoAAAACcQB+AK9zcQB+AIxzcQB+AJB0AAZGb3JtYXRxAH4AlXVxAH4AigAAAAFxAH4Ar3NxAH4AkHQADFNlcmlhbGl6YWJsZXNxAH4Ak3NxAH4AlnVxAH4AmQAAAAJzcQB+AJt0AAVzY2FsYXEAfgCkc3EAfgCQcQB+ALpzcQB+AJNzcQB+AJZ1cQB+AJkAAAADc3EAfgCbcQB+AKxzcQB+AJt0AAJpb3EAfgCkc3EAfgCQdAAHUHJvZHVjdHEAfgC7c3EAfgCQdAAGRXF1YWxzcQB+ALtzcQB+AJB0AAZPYmplY3RxAH4AqHNxAH4AkHQAA0FueXEAfgC7dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAFdmlld3NzcQB+ANF0AAp2aWV3cy5odG1sc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFNrCvhFHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADgvVXNlcnMvbmVhbGJyYW5kaS9jb2RlL2pzb25BcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBx2kXNYwI6Q1xoKsOJTOuPAKtLr
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA8p17jAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAInNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cG/v8KJ0AAZub3RpZnlzcQB+AAyvN6OtdAAGZm9ybWF0c3EAfgAMSrB2BHQABHdhaXRzcQB+AAxsurQLdAANJGFzSW5zdGFuY2VPZnNxAH4ADL77rR10AAxwcm9kdWN0QXJpdHlzcQB+AAwm67fNdAAGZXF1YWxzc3EAfgAMmi9nsHQADGFzSW5zdGFuY2VPZnNxAH4ADJzVSVJ0AAFmc3EAfgAM5hEUTnQADHN5bmNocm9uaXplZHNxAH4ADBOeMM50AAlfZGlzcGxheV9zcQB+AAx3ej+fdAANJGlzSW5zdGFuY2VPZnNxAH4ADLlhxbd0AANyZWZzcQB+AAwVVBnRdAAIY2FuRXF1YWxzcQB+AAwKFzABdAAEbWFpbnNxAH4ADNlVWtZ0AA1wcm9kdWN0UHJlZml4c3EAfgAMuBvzF3QACW5vdGlmeUFsbHNxAH4ADHntALR0AAtyZWFkUmVzb2x2ZXNxAH4ADCuqiMJ0AAxpc0luc3RhbmNlT2ZzcQB+AAx7EJLSdAAFYXBwbHlzcQB+AAy2FO7UdAACPT1zcQB+AAzciPY4dAAFY2xvbmVzcQB+AAytaqoWdAAEY29weXNxAH4ADNBaeYR0AAh0b1N0cmluZ3NxAH4ADIJ0HTt0AAIhPXNxAH4ADPnqnDB0AAhnZXRDbGFzc3NxAH4ADHVD17Z0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADMVocf10AAZyZW5kZXJzcQB+AAxZvzhVdAACbmVzcQB+AAx+dcPKdAACZXFzcQB+AAx8u4NedAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMsEEnAnQAAiMjc3EAfgAMSDV9PnQACGZpbmFsaXplc3EAfgAM+zDaZnQADnByb2R1Y3RFbGVtZW50c3EAfgAM0CuhpXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AW3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAD3ZpZXdzLmh0bWwubWFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AHR4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHMAcHNxAH4AeHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBbTAAJaW5oZXJpdGVkcQB+AFtMAAdwYXJlbnRzcQB+AFt4cQB+AHxzcQB+AHMAcHNxAH4AeHVxAH4AVgAAAABzcQB+AHMAcHNxAH4AeHVxAH4AVgAAAABzcQB+AHMAcHNxAH4AeHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAIc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTtbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AHtzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXhxAH4AjXhxAH4Ae3QACVRlbXBsYXRlMnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ae3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABHNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEcGxheXNxAH4Am3QABXR3aXJsc3EAfgCbdAADYXBpc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJx1cQB+AIoAAAADc3EAfgCQdAAGU3RyaW5nc3EAfgCTc3EAfgCWdXEAfgCZAAAAA3NxAH4Am3QABGphdmFzcQB+AJt0AARsYW5ncQB+AKRzcQB+AJB0AARIdG1scQB+AJVzcQB+AJB0AARIdG1scQB+AJVzcQB+AIxzcQB+AJB0ABFCYXNlU2NhbGFUZW1wbGF0ZXEAfgCVdXEAfgCKAAAAAnEAfgCxc3EAfgCMc3EAfgCQdAAGRm9ybWF0cQB+AJV1cQB+AIoAAAABcQB+ALFzcQB+AJB0AAxTZXJpYWxpemFibGVzcQB+AJNzcQB+AJZ1cQB+AJkAAAACc3EAfgCbdAAFc2NhbGFxAH4ApHNxAH4AkHEAfgC8c3EAfgCTc3EAfgCWdXEAfgCZAAAAA3NxAH4Am3EAfgCsc3EAfgCbdAACaW9xAH4ApHNxAH4AkHQAB1Byb2R1Y3RxAH4AvXNxAH4AkHQABkVxdWFsc3EAfgC9c3EAfgCQdAAGT2JqZWN0cQB+AKhzcQB+AJB0AANBbnlxAH4AvXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABXZpZXdzc3EAfgDTdAAKdmlld3MuaHRtbHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTawr4RR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA4L1VzZXJzL25lYWxicmFuZGkvY29kZS9qc29uQXBpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRA+f47JVGU6uwX3FkGek7zkukhrA==
+external apis:
+0 items
+source infos:
+10 items
+/Users/nealbrandi/code/jsonApi/app/controllers/Api.scala -> 
+AAAAAAAAAAA=
+/Users/nealbrandi/code/jsonApi/app/controllers/Application.scala -> 
+AAAAAAAAAAA=
+/Users/nealbrandi/code/jsonApi/app/models/Event.scala -> 
+AAAAAAAAAAA=
+/Users/nealbrandi/code/jsonApi/app/models/Location.scala -> 
+AAAAAAAAAAA=
+/Users/nealbrandi/code/jsonApi/app/models/Place.scala -> 
+AAAAAAAAAAA=
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/controllers/routes.java -> 
+AAAAAAAAAAA=
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_reverseRouting.scala -> 
+AAAAAAAAAAA=
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/src_managed/main/routes_routing.scala -> 
+AAAAAAAAAAA=
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/index.template.scala -> 
+AAAAAAAAAAA=
+/Users/nealbrandi/code/jsonApi/target/scala-2.11/twirl/main/views/html/main.template.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTR76aDZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9Vc2Vycy9uZWFsYnJhbmRpL3NjYWxhQXBwbGljYXRpb25zL2pzb25BcGkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTawr4RR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Vc2Vycy9uZWFsYnJhbmRpL2NvZGUvanNvbkFwaS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
